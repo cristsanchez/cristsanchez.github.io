@@ -48,7 +48,7 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 
 * Inputs and the School Quality Effects of Targeted Vouchers *(with Gabriel Cañedo Riedel)*
 
-* Price and Market Segmentation Consequences of Targeted Vouchers *(with Gabriel Cañedo Riedel)*
+* Price and Market Segmentation Consequences of Targeted Vouchers *(with Gabriel Cañedo Riedel and Emiliano Ramírez)*
 
 * Gender Wage Gap in the Teaching Profession *(with Paola Bordón, Roberto Gillmore and Miguel Sarzosa)*
 
