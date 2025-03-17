@@ -16,17 +16,16 @@ title: Research
 Revision requested at **Journal of Political Economy**
 
 * <a href="files/for_and_non_profit.pdf" target="_blank">**The Effects of For-Profit and Nonprofit Subsidized Schools on Academic Performance**</a>  
-*Submitted*
+Revision requested at **Economics of Education Review**
 
 * <a href="files/dEPS.pdf" target="_blank">**The Effects of Credit on Firms' Performance: A Survey**</a> *(with Ramiro de Elejalde and Brian Pustilnik)*  
-*Submitted*
+Submitted
 
 * <a href="files/EqmEffectsImmigrants.pdf" target="_blank">**Equilibrium Effects of Immigrants on School Competition**</a> *(with Faqiang Li, Diana Martínez and María Adelaida)*
 
 * <a href="files/Risk_shifting_paper.pdf" target="_blank">**Risk-Shifting Incentives Under Government Credit Guarantees**</a> *(with Ramiro de Elejalde)*
 
-* <a href="files/supply_side.pdf" target="_blank">**Supply-Side Responses to Targeted Vouchers**</a>  
-*(with Gabriel Cañedo Riedel)*  
+* <a href="files/supply_side.pdf" target="_blank">**Supply-Side Responses to Targeted Vouchers**</a> *(with Gabriel Cañedo Riedel)*  
 Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-research-development-economics-roundup-neudc-2021?CID=WBW_AL_BlogNotification_EN_EXT" target="_blank">Development Impact</a>
 
 * <a href="files/Schooling_Labor_Vouchers.pdf" target="_blank">**The Schooling and Labor Market Effects of Vouchers**</a> *(with Tomás Rau and Sergio Urzúa)*
