@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="assets/images/foto.png" caption="" width="200px" align="right" %}
+{% include image.html url="assets/images/HUMANS2025_commenting.jpeg" caption="" width="200px" align="right" %}
 
 I am a Senior Economist at the Central Bank of Chile.
 
