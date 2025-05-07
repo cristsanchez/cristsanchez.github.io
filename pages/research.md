@@ -25,6 +25,8 @@ Submitted
 
 * <a href="files/Risk_shifting_paper.pdf" target="_blank">**Risk-Shifting Incentives Under Government Credit Guarantees**</a> *(with Ramiro de Elejalde)*
 
+* <a href="files/Rising Markups in the Banking Industry - Draft 30Abril2025.pdf" target="_blank">**Rising Markups in the Banking Industry**</a> *(with Sofía Arrendondo)*
+
 * <a href="files/supply_side.pdf" target="_blank">**Supply-Side Responses to Targeted Vouchers**</a> *(with Gabriel Cañedo Riedel)*  
 Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-research-development-economics-roundup-neudc-2021?CID=WBW_AL_BlogNotification_EN_EXT" target="_blank">Development Impact</a>
 
@@ -42,14 +44,12 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 
 * Unwinding Crisis Lending *(with Lautaro Chittaro)*
 
-* Rising Markups in the Banking Industry *(with Sofía Arrendondo)*
-
 * Comparative Analysis of Financing Mechanisms Using Combined Credit Registry and Transaction-Level Data *(with Felipe Brugués, Rebecca De Simone and Patricio Toro)*
 
 * High Pay for High Performers in the Teaching Profession *(with Jorge Méndez and Mauricio Romero)*
 
-* The Effects of Drug Cartel Presence on Education and Labor Market Outcomes *(with Patricio Ramos)*
-
+<!-- * The Effects of Drug Cartel Presence on Education and Labor Market Outcomes *(with Patricio Ramos)*
+ -->
 * Inputs and the School Quality Effects of Targeted Vouchers *(with Gabriel Cañedo Riedel)*
 
 * Price and Market Segmentation Consequences of Targeted Vouchers *(with Gabriel Cañedo Riedel and Emiliano Ramírez)*
