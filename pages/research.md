@@ -21,7 +21,7 @@ Revision requested at **Economics of Education Review**
 * <a href="files/dEPS.pdf" target="_blank">**The Effects of Credit on Firms' Performance: A Survey**</a> *(with Ramiro de Elejalde and Brian Pustilnik)*  
 Reject and Resubmit at **Latin American Journal of Central Banking**
 
-* <a href="files/EqmEffectsImmigrants.pdf" target="_blank">**Equilibrium Effects of Immigrants on School Competition**</a> *(with Faqiang Li, Diana Martínez and María Adelaida)*
+* <a href="files/EqmEffectsImmigrants.pdf" target="_blank">**Equilibrium Effects of Immigrants on School Competition**</a> *(with Faqiang Li, Diana Martínez and María Adelaida Martínez)*
 
 * <a href="files/Risk_shifting_paper.pdf" target="_blank">**Risk-Shifting Incentives Under Government Credit Guarantees**</a> *(with Ramiro de Elejalde)*
 
