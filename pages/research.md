@@ -42,7 +42,7 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 
 * Increasing Capacity at Elite High Schools Under Centralized Assignment *(with Arturo Aguilar, Adrián Martínez and Jorge Pérez)*
 
-* Unwinding Crisis Lending *(with Lautaro Chittaro)*
+* Selection in Crisis Lending: Evidence from Chile *(with Lautaro Chittaro)*
 
 * Comparative Analysis of Financing Mechanisms Using Combined Credit Registry and Transaction-Level Data *(with Felipe Brugués, Rebecca De Simone and Patricio Toro)*
 
@@ -56,9 +56,9 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 
 * Are For-Profit Schools Worth Trying? Evidence Across Multiple Treatment Margins *(with René Nieto)*
 
-* Relaxing Switching Costs through Pension Advisers *(with Conrado Cuevas)*
+<!-- * Relaxing Switching Costs through Pension Advisers *(with Conrado Cuevas)* -->
 
-* Predicting Missing Geographic Coordinates *(with Gabriel Cañedo Riedel)*
+<!-- * Predicting Missing Geographic Coordinates *(with Gabriel Cañedo Riedel)* -->
 
 * The Effects of an Information Intervention on Higher Education Decisions and Labor Market Outcomes
 
