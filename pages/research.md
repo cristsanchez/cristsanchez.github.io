@@ -23,7 +23,7 @@ Reject and Resubmit at **Latin American Journal of Central Banking**
 
 * <a href="files/EqmEffectsImmigrants.pdf" target="_blank">**Equilibrium Effects of Immigrants on School Competition**</a> *(with Faqiang Li, Diana Martínez and María Adelaida Martínez)*
 
-* <a href="files/Gender_Pay_Gap_Teachers_draftJune4_2025.pdf" target="_blank">**The Gender Wage Gap in a Highly Regulated Market**</a> *(with Paola Bordón, Ricardo Estrada, Roberto Gillmore and Miguel Sarzosa)*
+* <a href="files/Gender_Pay_Gap_Teachers.pdf" target="_blank">**The Gender Wage Gap in a Highly Regulated Market**</a> *(with Paola Bordón, Ricardo Estrada, Roberto Gillmore and Miguel Sarzosa)*
 
 * <a href="files/Risk_shifting_paper.pdf" target="_blank">**Risk-Shifting Incentives Under Government Credit Guarantees**</a> *(with Ramiro de Elejalde)*
 
