@@ -63,3 +63,24 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 * The Effects of an Information Intervention on Higher Education Decisions and Labor Market Outcomes
 
 * To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools
+
+### Code Examples:
+
+**Binscatter Plot for VAM Shrinkage Analysis**
+
+```stata
+binsreg q_vam_shrunk q_vam, ///
+       xlabel(-3(1)2) ///
+       ylabel(-3(1)2) ///
+       plotxrange(-3 2) ///
+       plotyrange(-3 2) ///
+       xtitle("Original estimates") ///
+       ytitle("Shrunk estimates") ///
+       graphregion(color(white)) ///
+       plotregion(margin(0 0 0 0)) /// 
+       xsize(6) ysize(6) ///
+       aspectratio(1) ///
+       name(q_vam_shrunk_vs_q_vam_binsreg, replace)
+```
+
+*This code creates a binscatter plot comparing original and empirical Bayes shrunk estimates from Value-Added Model (VAM) analysis.*
