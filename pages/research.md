@@ -63,3 +63,20 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 * The Effects of an Information Intervention on Higher Education Decisions and Labor Market Outcomes
 
 * To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools
+
+### STATA Code Examples
+
+This website now includes STATA code examples with proper syntax highlighting. Here's a sample of econometric analysis code:
+
+```stata
+* Load Chilean school voucher data
+use voucher_data.dta, clear
+
+* Run difference-in-differences analysis
+regress test_scores treatment post_policy treatment_post i.school_id i.year, robust cluster(school_id)
+
+* Test for parallel trends assumption
+regress test_scores treatment##c.year if year <= policy_year, robust cluster(school_id)
+```
+
+For more comprehensive STATA examples, visit the [STATA Code](/stata-code/) section.
