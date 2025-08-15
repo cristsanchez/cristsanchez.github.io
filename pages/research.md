@@ -21,6 +21,9 @@ Revision requested at **Economics of Education Review**
 * <a href="files/dEPS.pdf" target="_blank">**The Effects of Credit on Firms' Performance: A Survey**</a> *(with Ramiro de Elejalde and Brian Pustilnik)*  
 Reject and Resubmit at **Latin American Journal of Central Banking**
 
+* <a href="files/BSV1.pdf" target="_blank">**To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools**</a> *(with Bárbara Boggiano and Rocío Valdebenito)*  
+Submitted
+
 * <a href="files/EqmEffectsImmigrants.pdf" target="_blank">**Equilibrium Effects of Immigrants on School Competition**</a> *(with Faqiang Li, Diana Martínez and María Adelaida Martínez)*
 
 * <a href="files/Gender_Pay_Gap_Teachers.pdf" target="_blank">**The Gender Wage Gap in a Highly Regulated Market**</a> *(with Paola Bordón, Ricardo Estrada, Roberto Gillmore and Miguel Sarzosa)*
@@ -62,4 +65,3 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 
 * The Effects of an Information Intervention on Higher Education Decisions and Labor Market Outcomes
 
-* To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools
