@@ -24,6 +24,8 @@ Reject and Resubmit at **Latin American Journal of Central Banking**
 * <a href="files/BSV1.pdf" target="_blank">**To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools**</a> *(with Bárbara Boggiano and Rocío Valdebenito)*  
 Submitted
 
+* <a href="files/Chittaro-JMP.pdf" target="_blank">**Selection in Crisis Lending: Evidence from Chile**</a> *(with Lautaro Chittaro)*  
+
 * <a href="files/EqmEffectsImmigrants.pdf" target="_blank">**Equilibrium Effects of Immigrants on School Competition**</a> *(with Faqiang Li, Diana Martínez and María Adelaida Martínez)*
 
 * <a href="files/Gender_Pay_Gap_Teachers.pdf" target="_blank">**The Gender Wage Gap in a Highly Regulated Market**</a> *(with Paola Bordón, Ricardo Estrada, Roberto Gillmore and Miguel Sarzosa)*
@@ -44,8 +46,6 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 * Carrots and Sticks for Teacher Colleges: An Application for an Optimal Teacher Recruitment *(with Adam Kapor and Christopher Neilson)*
 
 * Increasing Capacity at Elite High Schools Under Centralized Assignment *(with Arturo Aguilar, Adrián Martínez and Jorge Pérez)*
-
-* Selection in Crisis Lending: Evidence from Chile *(with Lautaro Chittaro)*
 
 * Comparative Analysis of Financing Mechanisms Using Combined Credit Registry and Transaction-Level Data *(with Felipe Brugués, Rebecca De Simone and Patricio Toro)*
 
