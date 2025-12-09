@@ -12,11 +12,11 @@ title: Research
 
 ###  Working Papers:  
 
+* <a href="files/fornonprofit_revised.pdf" target="_blank">**The Effects of For-Profit and Nonprofit Subsidized Schools on Academic Performance**</a>  
+Revised and Resubmitted at **Economics of Education Review**
+
 * <a href="files/EquilibriumConsequencesVouchers.pdf" target="_blank">**Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition**</a>  
 Revision requested at **Journal of Political Economy**
-
-* <a href="files/for_and_non_profit.pdf" target="_blank">**The Effects of For-Profit and Nonprofit Subsidized Schools on Academic Performance**</a>  
-Revision requested at **Economics of Education Review**
 
 * <a href="files/dEPS.pdf" target="_blank">**The Effects of Credit on Firms' Performance: A Survey**</a> *(with Ramiro de Elejalde and Brian Pustilnik)*  
 Reject and Resubmit at **Latin American Journal of Central Banking**
@@ -49,7 +49,7 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 
 * Comparative Analysis of Financing Mechanisms Using Combined Credit Registry and Transaction-Level Data *(with Felipe Brugués, Rebecca De Simone and Patricio Toro)*
 
-* High Pay for High Performers in the Teaching Profession *(with Jorge Méndez and Mauricio Romero)*
+* High Pay for High Performers in the Teaching Profession *(with Ricardo Estrada, Jorge Méndez and Mauricio Romero)*
 
 <!-- * The Effects of Drug Cartel Presence on Education and Labor Market Outcomes *(with Patricio Ramos)*
  -->
