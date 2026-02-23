@@ -12,14 +12,14 @@ title: Research
 
 ###  Working Papers:  
 
-* <a href="files/fornonprofit_revised.pdf" target="_blank">**The Effects of For-Profit and Nonprofit Subsidized Schools on Academic Performance**</a>  
-Revised and Resubmitted at **Economics of Education Review**
-
 * <a href="files/EquilibriumConsequencesVouchers.pdf" target="_blank">**Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition**</a>  
 Revision requested at **Journal of Political Economy**
 
 * <a href="files/dEPS.pdf" target="_blank">**The Effects of Credit on Firms' Performance: A Survey**</a> *(with Ramiro de Elejalde and Brian Pustilnik)*  
 Reject and Resubmit at **Latin American Journal of Central Banking**
+
+* <a href="files/fornonprofit_jdesub.pdf" target="_blank">**The Effects of For-Profit and Nonprofit Subsidized Schools on Academic Performance**</a>  
+Submitted
 
 * <a href="files/BSV1.pdf" target="_blank">**To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools**</a> *(with Bárbara Boggiano and Rocío Valdebenito)*  
 Submitted
@@ -39,12 +39,14 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 
 * <a href="files/Schooling_Labor_Vouchers.pdf" target="_blank">**The Schooling and Labor Market Effects of Vouchers**</a> *(with Tomás Rau and Sergio Urzúa)*
 
+* <a href="files/Fogape_CrisisTool.pdf" target="_blank">**FOGAPE-COVID as a Crisis Policy Tool: Lessons from Existing Evidence**</a>
+
 * <a href="files/skip_exam_draft.pdf" target="_blank">**The Design of Vouchers and Schools' Strategic Behavior: The Case of Chile**</a>
 
 ### Work in Progress:  
 
-* Carrots and Sticks for Teacher Colleges: An Application for an Optimal Teacher Recruitment *(with Adam Kapor and Christopher Neilson)*
-
+<!-- * Carrots and Sticks for Teacher Colleges: An Application for an Optimal Teacher Recruitment *(with Adam Kapor and Christopher Neilson)*
+ -->
 * Increasing Capacity at Elite High Schools Under Centralized Assignment *(with Arturo Aguilar, Adrián Martínez and Jorge Pérez)*
 
 * Comparative Analysis of Financing Mechanisms Using Combined Credit Registry and Transaction-Level Data *(with Felipe Brugués, Rebecca De Simone and Patricio Toro)*
