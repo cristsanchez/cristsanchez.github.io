@@ -15,14 +15,13 @@ title: Research
 * <a href="files/EquilibriumConsequencesVouchers.pdf" target="_blank">**Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition**</a>  
 Revision requested at **Journal of Political Economy**
 
+* <a href="files/BSV1.pdf" target="_blank">**To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools**</a> *(with Bárbara Boggiano and Rocío Valdebenito)*  
+Revision requested at **Applied Economics Letters**
+
 * <a href="files/dEPS.pdf" target="_blank">**The Effects of Credit on Firms' Performance: A Survey**</a> *(with Ramiro de Elejalde and Brian Pustilnik)*  
 Reject and Resubmit at **Latin American Journal of Central Banking**
 
 * <a href="files/fornonprofit_jdesub.pdf" target="_blank">**The Effects of For-Profit and Nonprofit Subsidized Schools on Academic Performance**</a>  
-Submitted
-
-* <a href="files/BSV1.pdf" target="_blank">**To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools**</a> *(with Bárbara Boggiano and Rocío Valdebenito)*  
-Submitted
 
 * <a href="files/Chittaro-JMP.pdf" target="_blank">**Selection in Crisis Lending: Evidence from Chile's Government-Guaranteed Loans**</a> *(with Lautaro Chittaro)*  
 
