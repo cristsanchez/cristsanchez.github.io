@@ -12,8 +12,8 @@ title: Research
 
 ###  Working Papers:  
 
-* <a href="files/csanchez_jmp.pdf" target="_blank">**Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition**</a>  
-Revision requested at **Journal of Political Economy**
+* <a href="files/csanchez_resubjpe.pdf" target="_blank">**Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition**</a>  
+Revised and Resubmitted at **Journal of Political Economy**
 
 * <a href="files/BSV1.pdf" target="_blank">**To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools**</a> *(with Bárbara Boggiano and Rocío Valdebenito)*  
 Revision requested at **Applied Economics Letters**
