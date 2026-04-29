@@ -16,7 +16,7 @@ title: Research
 Revised and Resubmitted at **Journal of Political Economy**
 
 * <a href="files/BSV1.pdf" target="_blank">**To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools**</a> *(with Bárbara Boggiano and Rocío Valdebenito)*  
-Revision requested at **Applied Economics Letters**
+Revised and Resubmitted at **Applied Economics Letters**
 
 * <a href="files/dEPS.pdf" target="_blank">**The Effects of Credit on Firms' Performance: A Survey**</a> *(with Ramiro de Elejalde and Brian Pustilnik)*  
 Reject and Resubmit at **Latin American Journal of Central Banking**
