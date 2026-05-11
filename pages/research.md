@@ -22,7 +22,8 @@ Revised and Resubmitted at **Applied Economics Letters**
 Reject and Resubmit at **Latin American Journal of Central Banking**
 
 * <a href="files/fornonprofit_cs.pdf" target="_blank">**The Effects of For-Profit and Nonprofit Subsidized Schools on Academic Performance**</a>  
-Submitted.
+Submitted
+* <a href="files/fornonprofit_oappendix.pdf" target="_blank">Online Appendix</a>
 
 * <a href="files/Chittaro-JMP.pdf" target="_blank">**Selection in Crisis Lending: Evidence from Chile's Government-Guaranteed Loans**</a> *(with Lautaro Chittaro)*  
 
