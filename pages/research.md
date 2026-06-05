@@ -29,18 +29,18 @@ Submitted
 
 * <a href="files/EqmEffectsImmigrants.pdf" target="_blank">**Equilibrium Effects of Immigrants on School Competition**</a> *(with Faqiang Li, Diana Martínez and María Adelaida Martínez)*
 
-* <a href="files/Gender_Pay_Gap_Teachers.pdf" target="_blank">**The Gender Wage Gap in a Highly Regulated Market**</a> *(with Paola Bordón, Ricardo Estrada, Roberto Gillmore and Miguel Sarzosa)*
+* <a href="files/Gender_Pay_Gap_Teachers.pdf" target="_blank">**The Gender Pay Gap in a Highly Regulated Market**</a> *(with Paola Bordón, Ricardo Estrada and Miguel Sarzosa)*
 
 * <a href="files/Risk_shifting_paper.pdf" target="_blank">**Risk-Shifting Incentives Under Government Credit Guarantees**</a> *(with Ramiro de Elejalde)*
 
-* <a href="files/Rising Markups in the Banking Industry - Draft 30Abril2025.pdf" target="_blank">**Rising Markups in the Banking Industry**</a> *(with Sofía Arrendondo)*
+<!-- * <a href="files/Rising Markups in the Banking Industry - Draft 30Abril2025.pdf" target="_blank">**Rising Markups in the Banking Industry**</a> *(with Sofía Arrendondo)* -->
 
 * <a href="files/supply_side.pdf" target="_blank">**Supply-Side Responses to Targeted Vouchers**</a> *(with Gabriel Cañedo Riedel)*  
 Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-research-development-economics-roundup-neudc-2021?CID=WBW_AL_BlogNotification_EN_EXT" target="_blank">Development Impact</a>
 
 * <a href="files/Schooling_Labor_Vouchers.pdf" target="_blank">**The Schooling and Labor Market Effects of Vouchers**</a> *(with Tomás Rau and Sergio Urzúa)*
 
-* <a href="files/Fogape_CrisisTool.pdf" target="_blank">**FOGAPE-COVID as a Crisis Policy Tool: Lessons from Existing Evidence**</a>
+* <a href="files/Fogape_CrisisTool.pdf" target="_blank">**Government-Guaranteed Lending in Crisis: Lessons from Chile's Credit Guarantee Program**</a>
 
 * <a href="files/skip_exam_draft.pdf" target="_blank">**The Design of Vouchers and Schools' Strategic Behavior: The Case of Chile**</a>
 
