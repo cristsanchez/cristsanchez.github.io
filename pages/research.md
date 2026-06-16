@@ -46,11 +46,11 @@ Coverage: <a href="https://blogs.worldbank.org/impactevaluations/whats-latest-re
 
 ### Work in Progress:  
 
-<!-- * Carrots and Sticks for Teacher Colleges: An Application for an Optimal Teacher Recruitment *(with Adam Kapor and Christopher Neilson)*
- -->
+* Carrots and Sticks for Teacher Colleges: The Equilibrium Design of Teacher Recruitment Policy *(with Adam Kapor and Christopher Neilson)*
+
 * Increasing Capacity at Elite High Schools Under Centralized Assignment *(with Arturo Aguilar, Adrián Martínez and Jorge Pérez)*
 
-* Comparative Analysis of Financing Mechanisms Using Combined Credit Registry and Transaction-Level Data *(with Felipe Brugués, Rebecca De Simone and Patricio Toro)*
+<!-- * Comparative Analysis of Financing Mechanisms Using Combined Credit Registry and Transaction-Level Data *(with Felipe Brugués, Rebecca De Simone and Patricio Toro)* -->
 
 * High Pay for High Performers in the Teaching Profession *(with Ricardo Estrada, Jorge Méndez and Mauricio Romero)*
 
