@@ -1,18 +1,18 @@
 {% assign p = include.item %}
 <div class="pub{% if include.wip %} wip{% endif %}">
     {% if p.url %}<a class="pub-title" href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a>{% else %}<span class="pub-title">{{ p.title }}</span>{% endif %}
-    {% if p.coauthors or p.venue or p.status or p.coverage %}
+    {% if p.coauthors or p.venue or p.status %}
     <div class="pub-meta">
         {%- if p.coauthors %}with {{ p.coauthors }}{% endif -%}
         {%- if p.venue %}{% if p.coauthors %} &middot; {% endif %}<span class="venue">{{ p.venue }}</span>{% if p.venue_detail %}, {{ p.venue_detail }}{% endif %}{% endif -%}
         {%- if p.status %}{% if p.coauthors or p.venue %} {% endif %}<span class="tag{% if p.status_live %} live{% endif %}">{{ p.status }}</span>{% endif -%}
-        {%- if p.coverage %}{% if p.coauthors or p.venue %} &middot; {% endif %}Coverage: <a href="{{ p.coverage.href }}" target="_blank" rel="noopener">{{ p.coverage.label }}</a>{% endif -%}
     </div>
     {% endif %}
-    {% if p.links or p.abstract or p.bibtex %}
+    {% if p.links or p.coverage or p.abstract or p.bibtex %}
     {% assign uid = p.title | slugify %}
     <div class="pub-links">
         {%- if p.links %}{% for l in p.links %}<a href="{{ l.href }}" target="_blank" rel="noopener">{{ l.label }}</a>{% endfor %}{% endif -%}
+        {%- if p.coverage %}<a href="{{ p.coverage.href }}" target="_blank" rel="noopener">Coverage: {{ p.coverage.label }}</a>{% endif -%}
         {%- if p.abstract %}<button type="button" class="linkbtn" data-target="abs-{{ uid }}" aria-controls="abs-{{ uid }}" aria-expanded="false">Abstract</button>{% endif -%}
         {%- if p.bibtex %}<button type="button" class="linkbtn" data-target="bib-{{ uid }}" aria-controls="bib-{{ uid }}" aria-expanded="false">BibTeX</button>{% endif -%}
     </div>
