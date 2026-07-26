@@ -9,15 +9,14 @@
         {%- if p.coverage %}{% if p.coauthors or p.venue %} &middot; {% endif %}Coverage: <a href="{{ p.coverage.href }}" target="_blank" rel="noopener">{{ p.coverage.label }}</a>{% endif -%}
     </div>
     {% endif %}
-    {% if p.links %}
-    <div class="res">
-        {% for l in p.links %}{% unless forloop.first %}<span class="dot">&middot;</span>{% endunless %}<a href="{{ l.href }}" target="_blank" rel="noopener">{{ l.label }}</a>{% endfor %}
+    {% if p.links or p.abstract or p.bibtex %}
+    {% assign uid = p.title | slugify %}
+    <div class="pub-links">
+        {%- if p.links %}{% for l in p.links %}<a href="{{ l.href }}" target="_blank" rel="noopener">{{ l.label }}</a>{% endfor %}{% endif -%}
+        {%- if p.abstract %}<button type="button" class="linkbtn" data-target="abs-{{ uid }}" aria-controls="abs-{{ uid }}" aria-expanded="false">Abstract</button>{% endif -%}
+        {%- if p.bibtex %}<button type="button" class="linkbtn" data-target="bib-{{ uid }}" aria-controls="bib-{{ uid }}" aria-expanded="false">BibTeX</button>{% endif -%}
     </div>
-    {% endif %}
-    {% if p.abstract or p.bibtex %}
-    <div class="pub-disc">
-        {% if p.abstract %}<details class="disc"><summary>Abstract</summary><div class="disc-body">{{ p.abstract | escape | newline_to_br }}</div></details>{% endif %}
-        {% if p.bibtex %}<details class="disc disc-bib"><summary>BibTeX</summary><pre class="disc-body bib-body"><code>{{ p.bibtex | escape }}</code></pre></details>{% endif %}
-    </div>
+    {% if p.abstract %}<div class="panel disc-body" id="abs-{{ uid }}">{{ p.abstract | escape | newline_to_br }}</div>{% endif %}
+    {% if p.bibtex %}<pre class="panel bib-body" id="bib-{{ uid }}"><code>{{ p.bibtex | escape }}</code></pre>{% endif %}
     {% endif %}
 </div>

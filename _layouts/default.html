@@ -27,6 +27,20 @@
           try { localStorage.setItem('theme', next); } catch (e) {}
         });
       })();
+
+      // Expandable Abstract / BibTeX panels
+      (function () {
+        document.querySelectorAll('.linkbtn').forEach(function (b) {
+          b.addEventListener('click', function () {
+            var p = document.getElementById(b.getAttribute('data-target'));
+            if (!p) return;
+            var open = !p.classList.contains('is-open');
+            p.classList.toggle('is-open', open);
+            b.classList.toggle('is-open', open);
+            b.setAttribute('aria-expanded', open ? 'true' : 'false');
+          });
+        });
+      })();
     </script>
   </body>
 

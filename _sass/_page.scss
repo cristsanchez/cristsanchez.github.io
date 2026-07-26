@@ -98,12 +98,20 @@
     border-bottom: 1px solid var(--hairline);
     display: flex;
     justify-content: space-between;
-    gap: 18px;
+    gap: 6px 18px;
     align-items: baseline;
     flex-wrap: wrap;
     &:last-child { border-bottom: none; }
     .name  { font-family: var(--serif); font-weight: 500; font-size: 18px; }
-    .level { font-family: var(--sans); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-muted); }
+    .level { font-family: var(--sans); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-muted); text-align: right; }
+}
+
+.lecture {
+    padding: 16px 0;
+    border-bottom: 1px solid var(--hairline);
+    &:last-child { border-bottom: none; }
+    .lecture-title { font-family: var(--serif); font-weight: 500; font-size: 18px; }
+    .lecture-venue { font-family: var(--sans); font-size: 12.5px; letter-spacing: 0.02em; color: var(--text-muted); margin-top: 3px; }
 }
 
 @media (max-width: 640px) {
