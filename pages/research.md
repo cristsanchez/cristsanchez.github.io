@@ -18,6 +18,9 @@ Revised and Resubmitted at **Journal of Political Economy**
 * <a href="files/BSV1.pdf" target="_blank">**To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools**</a> *(with Bárbara Boggiano and Rocío Valdebenito)*  
 Revised and Resubmitted at **Applied Economics Letters**
 
+* <a href="files/Fogape_CrisisTool.pdf" target="_blank">**Government-Guaranteed Lending in Crisis: Lessons from Chile's Credit Guarantee Program**</a>  
+Revise and Resubmit at **Latin American Journal of Central Banking**
+
 * <a href="files/dEPS.pdf" target="_blank">**The Effects of Credit on Firms' Performance: A Survey**</a> *(with Ramiro de Elejalde and Brian Pustilnik)*  
 Reject and Resubmit at **Latin American Journal of Central Banking**
 
@@ -25,14 +28,12 @@ Reject and Resubmit at **Latin American Journal of Central Banking**
 Submitted  
 <a href="files/fornonprofit_oappendix.pdf" target="_blank">Online Appendix</a>
 
-* <a href="files/Fogape_CrisisTool.pdf" target="_blank">**Government-Guaranteed Lending in Crisis: Lessons from Chile's Credit Guarantee Program**</a>  
+* <a href="files/Gender_Pay_Gap_Teachers_july2026.pdf" target="_blank">**The Gender Pay Gap in a Highly Regulated Market**</a> *(with Paola Bordón, Ricardo Estrada and Miguel Sarzosa)*  
 Submitted
 
 * <a href="files/Chittaro-JMP.pdf" target="_blank">**Selection in Crisis Lending: Evidence from Chile's Government-Guaranteed Loans**</a> *(with Lautaro Chittaro)*  
 
 * <a href="files/EqmEffectsImmigrants.pdf" target="_blank">**Equilibrium Effects of Immigrants on School Competition**</a> *(with Faqiang Li, Diana Martínez and María Adelaida Martínez)*
-
-* <a href="files/Gender_Pay_Gap_Teachers.pdf" target="_blank">**The Gender Pay Gap in a Highly Regulated Market**</a> *(with Paola Bordón, Ricardo Estrada and Miguel Sarzosa)*
 
 * <a href="files/Risk_shifting_paper.pdf" target="_blank">**Risk-Shifting Incentives Under Government Credit Guarantees**</a> *(with Ramiro de Elejalde)*
 

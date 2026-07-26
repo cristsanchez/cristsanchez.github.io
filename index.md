@@ -4,7 +4,7 @@ layout: page
 permalink: /
 ---
 
-{% include image.html url="assets/images/HUMANS2025_commenting.jpeg" caption="" width="200px" align="right" %}
+{% include image.html url="assets/images/Dieppe_juin2026.jpeg" caption="" width="200px" align="right" %}
 
 I am a Visiting Assistant Professor at Universidad de los Andes.
 
