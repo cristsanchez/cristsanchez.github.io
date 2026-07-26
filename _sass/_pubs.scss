@@ -1,0 +1,110 @@
+.group {
+    margin-top: 56px;
+    &:first-child { margin-top: 0; }
+}
+
+.group-label {
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    padding-bottom: 10px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid var(--hairline);
+}
+
+.pub { margin-bottom: 28px; }
+
+.pub-title {
+    font-family: var(--serif);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.35;
+    color: var(--accent);
+    text-wrap: pretty;
+    display: inline;
+}
+a.pub-title:hover {
+    color: var(--accent-hover);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-thickness: 1px;
+}
+
+.pub-meta {
+    font-size: 15.5px;
+    line-height: 1.5;
+    color: var(--text-muted);
+    margin-top: 2px;
+    .venue { font-style: italic; }
+    a {
+        color: var(--text-muted);
+        text-decoration: underline;
+        text-underline-offset: 2px;
+        text-decoration-thickness: 0.5px;
+        &:hover { color: var(--accent); }
+    }
+}
+
+.tag {
+    display: inline-block;
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    background: var(--bg-subtle);
+    border-radius: 4px;
+    padding: 2px 8px;
+    margin-left: 2px;
+    vertical-align: middle;
+    &.live { color: var(--accent); }
+}
+
+.res {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: var(--sans);
+    font-size: 13px;
+    letter-spacing: 0.02em;
+    margin-top: 7px;
+    a { color: var(--accent); font-weight: 500;
+        &:hover { text-decoration: underline; text-underline-offset: 2px; }
+    }
+    .dot { color: var(--hairline); margin: 0 9px; }
+}
+
+details.abs {
+    margin-top: 7px;
+    summary {
+        font-family: var(--sans);
+        font-size: 13px;
+        font-weight: 500;
+        letter-spacing: 0.02em;
+        color: var(--accent);
+        cursor: pointer;
+        list-style: none;
+        display: inline-block;
+        &::-webkit-details-marker { display: none; }
+        &::before { content: "\25B8 "; font-size: 10px; }
+    }
+    &[open] summary::before { content: "\25BE "; }
+    .abs-body {
+        font-size: 16px;
+        line-height: 1.6;
+        color: var(--text-muted);
+        border-left: 2px solid var(--hairline);
+        padding-left: 16px;
+        margin-top: 10px;
+        max-width: 60ch;
+    }
+}
+
+// Work in progress (no links)
+.wip {
+    margin-bottom: 20px;
+    .pub-title { color: var(--text); }
+}

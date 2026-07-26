@@ -1,0 +1,20 @@
+<div class="intro">
+    <figure class="intro-photo">
+        <img src="/assets/images/Dieppe_juin2026.jpeg" alt="Cristián Sánchez, Visiting Assistant Professor of Economics at Universidad de los Andes">
+    </figure>
+    <div class="intro-body">
+        <p class="lead">I am a Visiting Assistant Professor at Universidad de los Andes.</p>
+        <p>I am an applied microeconomist. I study how incentives and market structure determine the effectiveness of public policy. My work combines quasi-experimental methods with equilibrium modeling to understand how schools, firms, and individuals respond to government intervention, with a focus on education and credit markets in Latin America.</p>
+        <p class="fields"><b>Fields</b>&nbsp;&nbsp;Public Economics &middot; Industrial Organization &middot; Economics of Education</p>
+        <div class="contact-row">
+            <a href="/assets/files/CSanchez_CV.pdf" target="_blank" rel="noopener">CV (PDF)</a><span class="sep">&middot;</span>
+            <a href="mailto:cristiansm@gmail.com">cristiansm@gmail.com</a>
+        </div>
+    </div>
+</div>
+
+<section class="section">
+    <h2 class="h2">Selected work</h2>
+    <p class="section-note">A few representative papers &mdash; the full list is on <a href="/research/">Research</a>.</p>
+    {% for group in site.data.publications.groups %}{% for item in group.items %}{% if item.featured %}{% include pub_entry.html item=item %}{% endif %}{% endfor %}{% endfor %}
+</section>

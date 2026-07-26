@@ -1,4 +1,4 @@
-- title: "About"
+- title: "Home"
   href: "/"
 
 - title: "Research"
@@ -6,3 +6,7 @@
 
 - title: "Teaching"
   href: "/teaching/"
+
+- title: "CV"
+  href: "/assets/files/CSanchez_CV.pdf"
+  external: true

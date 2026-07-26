@@ -1,0 +1,6 @@
+{% for group in site.data.publications.groups %}
+<div class="group">
+    <div class="group-label">{{ group.label }}</div>
+    {% for item in group.items %}{% include pub_entry.html item=item wip=group.wip %}{% endfor %}
+</div>
+{% endfor %}

@@ -1,6 +1,6 @@
-title: <b>Cristián Sánchez</b><br/>Visiting Assistant Professor at Universidad de los Andes
+title: Cristián Sánchez
 
-description: 
+description: Cristián Sánchez — applied microeconomist, Visiting Assistant Professor at Universidad de los Andes.
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]

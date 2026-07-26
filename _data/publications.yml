@@ -1,0 +1,109 @@
+# Publications data — drives the Research page and the "Selected work" block on Home.
+#
+# Per item fields (all optional except title):
+#   title         paper title
+#   url           link for the title (usually the working-paper PDF)
+#   coauthors     "Name One and Name Two"  (rendered as "with …")
+#   venue         journal name (italic); use for published work
+#   venue_detail  e.g. "Vol. 33, 2024"
+#   status        e.g. "R&R · Journal of Political Economy"  (rendered as a tag)
+#   status_live   true  -> accent-colored tag (use for R&R / Accepted)
+#   coverage      { label:, href: }   press / blog coverage
+#   links         [ { label:, href: } ]  extra resources (Online Appendix, Slides, BibTeX…)
+#   abstract      optional text -> renders a collapsible "Abstract" toggle
+#   featured      true  -> also shown in "Selected work" on the Home page
+
+groups:
+  - label: "Publications"
+    items:
+      - title: "The Effects of Educated Leaders on Policy and Politics: Quasi-Experimental Evidence from Brazil"
+        url: "https://www.latinaer.org/index.php/laer/article/view/198"
+        coauthors: "Paulo Bastos"
+        venue: "Latin American Economic Review"
+        venue_detail: "Vol. 33, 2024"
+
+  - label: "Working Papers"
+    items:
+      - title: "Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition"
+        url: "/research/files/csanchez_resubjpe.pdf"
+        status: "R&R · Journal of Political Economy"
+        status_live: true
+        featured: true
+
+      - title: "To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools"
+        url: "/research/files/BSV1.pdf"
+        coauthors: "Bárbara Boggiano and Rocío Valdebenito"
+        status: "R&R · Applied Economics Letters"
+        status_live: true
+
+      - title: "Government-Guaranteed Lending in Crisis: Lessons from Chile's Credit Guarantee Program"
+        url: "/research/files/Fogape_CrisisTool.pdf"
+        status: "R&R · Latin American Journal of Central Banking"
+        status_live: true
+        featured: true
+
+      - title: "The Effects of Credit on Firms' Performance: A Survey"
+        url: "/research/files/dEPS.pdf"
+        coauthors: "Ramiro de Elejalde and Brian Pustilnik"
+        status: "Reject & Resubmit · Latin American Journal of Central Banking"
+
+      - title: "The Effects of For-Profit and Nonprofit Subsidized Schools on Academic Performance"
+        url: "/research/files/fornonprofit_cs.pdf"
+        status: "Submitted"
+        links:
+          - { label: "Online Appendix", href: "/research/files/fornonprofit_oappendix.pdf" }
+
+      - title: "The Gender Pay Gap in a Highly Regulated Market"
+        url: "/research/files/Gender_Pay_Gap_Teachers_july2026.pdf"
+        coauthors: "Paola Bordón, Ricardo Estrada and Miguel Sarzosa"
+        status: "Submitted"
+        featured: true
+
+      - title: "Selection in Crisis Lending: Evidence from Chile's Government-Guaranteed Loans"
+        url: "/research/files/Chittaro-JMP.pdf"
+        coauthors: "Lautaro Chittaro"
+
+      - title: "Equilibrium Effects of Immigrants on School Competition"
+        url: "/research/files/EqmEffectsImmigrants.pdf"
+        coauthors: "Faqiang Li, Diana Martínez and María Adelaida Martínez"
+
+      - title: "Risk-Shifting Incentives Under Government Credit Guarantees"
+        url: "/research/files/Risk_shifting_paper.pdf"
+        coauthors: "Ramiro de Elejalde"
+
+      - title: "Supply-Side Responses to Targeted Vouchers"
+        url: "/research/files/supply_side.pdf"
+        coauthors: "Gabriel Cañedo Riedel"
+        coverage:
+          label: "Development Impact"
+          href: "https://blogs.worldbank.org/impactevaluations/whats-latest-research-development-economics-roundup-neudc-2021?CID=WBW_AL_BlogNotification_EN_EXT"
+
+      - title: "The Schooling and Labor Market Effects of Vouchers"
+        url: "/research/files/Schooling_Labor_Vouchers.pdf"
+        coauthors: "Tomás Rau and Sergio Urzúa"
+
+      - title: "The Design of Vouchers and Schools' Strategic Behavior: The Case of Chile"
+        url: "/research/files/skip_exam_draft.pdf"
+
+  - label: "Work in Progress"
+    wip: true
+    items:
+      - title: "Carrots and Sticks for Teacher Colleges: The Equilibrium Design of Teacher Recruitment Policy"
+        coauthors: "Adam Kapor and Christopher Neilson"
+
+      - title: "Increasing Capacity at Elite High Schools Under Centralized Assignment"
+        coauthors: "Arturo Aguilar, Adrián Martínez and Jorge Pérez"
+
+      - title: "High Pay for High Performers in the Teaching Profession"
+        coauthors: "Ricardo Estrada, Jorge Méndez and Mauricio Romero"
+
+      - title: "Inputs and the School Quality Effects of Targeted Vouchers"
+        coauthors: "Gabriel Cañedo Riedel"
+
+      - title: "Price and Market Segmentation Consequences of Targeted Vouchers"
+        coauthors: "Gabriel Cañedo Riedel and Emiliano Ramírez"
+
+      - title: "Are For-Profit Schools Worth Trying? Evidence Across Multiple Treatment Margins"
+        coauthors: "René Nieto"
+
+      - title: "The Effects of an Information Intervention on Higher Education Decisions and Labor Market Outcomes"
