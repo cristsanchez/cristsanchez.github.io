@@ -2,6 +2,12 @@ title: Cristián Sánchez
 
 description: Cristián Sánchez — applied microeconomist, Visiting Assistant Professor at Universidad de los Andes.
 
+# Profile links (used in the header/footer/contact row)
+email:   cristiansm@gmail.com
+scholar: https://scholar.google.com/citations?user=dk2tBkEAAAAJ&hl=en
+orcid:   https://orcid.org/0009-0005-5738-0598
+cv:      /assets/files/CSanchez_CV.pdf
+
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 

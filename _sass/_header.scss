@@ -1,9 +1,43 @@
 .masthead {
+    position: relative;
     max-width: var(--wrap);
     margin: 0 auto;
     padding: 48px var(--pad) 0;
     text-align: center;
 }
+
+.theme-toggle {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    padding: 0;
+    background: none;
+    border: none;
+    border-radius: 8px;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+    &:hover { color: var(--accent); background: var(--bg-subtle); }
+    svg { display: block; }
+}
+
+// Show the icon for the theme the visitor can switch TO the opposite of:
+// moon in light mode, sun in dark mode — honoring OS default and explicit override.
+.theme-toggle .i-sun  { display: none; }
+.theme-toggle .i-moon { display: block; }
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) .theme-toggle .i-sun  { display: block; }
+    :root:not([data-theme="light"]) .theme-toggle .i-moon { display: none; }
+}
+:root[data-theme="dark"] .theme-toggle .i-sun   { display: block; }
+:root[data-theme="dark"] .theme-toggle .i-moon  { display: none; }
+:root[data-theme="light"] .theme-toggle .i-sun  { display: none; }
+:root[data-theme="light"] .theme-toggle .i-moon { display: block; }
 
 .wordmark {
     display: inline-block;

@@ -1,7 +1,9 @@
 <footer class="site-footer">
     <span>&copy; {{ site.time | date: "%Y" }} Cristián Sánchez</span><span class="sep">&middot;</span>
     <span>Universidad de los Andes</span><span class="sep">&middot;</span>
-    <a href="mailto:cristiansm@gmail.com">Email</a><span class="sep">&middot;</span>
-    <a href="/assets/files/CSanchez_CV.pdf" target="_blank" rel="noopener">CV</a><span class="sep">&middot;</span>
+    <a href="mailto:{{ site.email }}">Email</a><span class="sep">&middot;</span>
+    <a href="{{ site.scholar }}" target="_blank" rel="noopener">Google Scholar</a><span class="sep">&middot;</span>
+    <a href="{{ site.orcid }}" target="_blank" rel="noopener">ORCID</a><span class="sep">&middot;</span>
+    <a href="{{ site.cv }}" target="_blank" rel="noopener">CV</a><span class="sep">&middot;</span>
     <span>Updated {{ site.time | date: "%B %Y" }}</span>
 </footer>

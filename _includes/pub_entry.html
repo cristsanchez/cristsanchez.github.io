@@ -14,7 +14,10 @@
         {% for l in p.links %}{% unless forloop.first %}<span class="dot">&middot;</span>{% endunless %}<a href="{{ l.href }}" target="_blank" rel="noopener">{{ l.label }}</a>{% endfor %}
     </div>
     {% endif %}
-    {% if p.abstract %}
-    <details class="abs"><summary>Abstract</summary><div class="abs-body">{{ p.abstract }}</div></details>
+    {% if p.abstract or p.bibtex %}
+    <div class="pub-disc">
+        {% if p.abstract %}<details class="disc"><summary>Abstract</summary><div class="disc-body">{{ p.abstract | escape | newline_to_br }}</div></details>{% endif %}
+        {% if p.bibtex %}<details class="disc disc-bib"><summary>BibTeX</summary><pre class="disc-body bib-body"><code>{{ p.bibtex | escape }}</code></pre></details>{% endif %}
+    </div>
     {% endif %}
 </div>

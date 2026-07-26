@@ -1,17 +1,6 @@
-# Publications data — drives the Research page and the "Selected work" block on Home.
-#
-# Per item fields (all optional except title):
-#   title         paper title
-#   url           link for the title (usually the working-paper PDF)
-#   coauthors     "Name One and Name Two"  (rendered as "with …")
-#   venue         journal name (italic); use for published work
-#   venue_detail  e.g. "Vol. 33, 2024"
-#   status        e.g. "R&R · Journal of Political Economy"  (rendered as a tag)
-#   status_live   true  -> accent-colored tag (use for R&R / Accepted)
-#   coverage      { label:, href: }   press / blog coverage
-#   links         [ { label:, href: } ]  extra resources (Online Appendix, Slides, BibTeX…)
-#   abstract      optional text -> renders a collapsible "Abstract" toggle
-#   featured      true  -> also shown in "Selected work" on the Home page
+# Publications data - drives the Research page and the "Selected work" block on Home.
+# Per item: title, url, coauthors, venue/venue_detail, status/status_live, coverage,
+# links[], featured, abstract, bibtex. See _includes/pub_entry.html.
 
 groups:
   - label: "Publications"
@@ -21,7 +10,17 @@ groups:
         coauthors: "Paulo Bastos"
         venue: "Latin American Economic Review"
         venue_detail: "Vol. 33, 2024"
-
+        abstract: |-
+          We examine whether and how the educational background of political leaders matters for policy choices and outcomes. Using data on municipalities in Brazil from 2000–2008, we estimate the effects of electing a more educated leader in a regression-discontinuity design whereby policy inputs and outcomes in municipalities where a highly educated candidate barely won the election are compared with those of municipalities where a highly educated candidate barely lost. Our results indicate that highly educated mayors make different choices regarding the allocation of public funds and inputs in critical sectors when compared to non-highly educated mayors, yet they do not produce better indicators on a variety of measurable outcomes. Furthermore, our estimates suggest a negative impact of educated mayors on local economic growth and children's health. We additionally document the existence of heterogeneity in the effects of highly educated leaders along political ideology and age of the candidate. Lastly, highly educated leaders are not more likely to be reelected, suggesting that they are not perceived as better politicians.
+        bibtex: |-
+          @article{bastos2024educated,
+            author  = {Paulo Bastos and Cristián Sánchez},
+            title   = {{The Effects of Educated Leaders on Policy and Politics: Quasi-Experimental Evidence from Brazil}},
+            journal = {Latin American Economic Review},
+            volume  = {33},
+            year    = {2024},
+            doi     = {10.60758/laer.v33i.198}
+          }
   - label: "Working Papers"
     items:
       - title: "Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition"
@@ -29,81 +28,175 @@ groups:
         status: "R&R · Journal of Political Economy"
         status_live: true
         featured: true
-
+        abstract: |-
+          I study supply-side responses to a targeted voucher program with voluntary school participation, combining administrative data from Chile with an equilibrium model of school demand and competition. The policy induces market segmentation: lower-quality schools opt in and reduce fees, while higher-quality schools opt out and raise them. Low-income students face lower prices and modest quality gains; higher-income students shift toward non-participants. Budget-neutral redesigns improve the quality mix of participating schools but yield limited gains for low-income students, given their low willingness to pay for school attributes. Only mandated participation delivers appreciable gains, at higher fiscal cost.
+        bibtex: |-
+          @unpublished{sanchez2026equilibrium,
+            author = {Cristián Sánchez},
+            title  = {{Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition}},
+            year   = {2026},
+            note   = {Working paper}
+          }
       - title: "To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools"
         url: "/research/files/BSV1.pdf"
         coauthors: "Bárbara Boggiano and Rocío Valdebenito"
         status: "R&R · Applied Economics Letters"
         status_live: true
-
+        abstract: |-
+          This note examines whether for-profit management affects educational outcomes in Chile's voucher system. Using administrative panel data for all voucher-subsidized primary schools from 2010 to 2014, we compare for-profit and nonprofit schools in terms of inputs and student performance. For-profit schools serve more disadvantaged students and rely on lower-cost inputs, such as less-qualified teachers, but they also provide more instructional hours and smaller classes. After controlling for student characteristics, a significant test-score gap remains, but it is largely explained by differences in school inputs. These results suggest that ownership matters mainly through differences in how schools allocate educational inputs.
+        bibtex: |-
+          @unpublished{boggiano2026profit,
+            author = {Bárbara Boggiano and Cristián Sánchez and Rocío Valdebenito},
+            title  = {{To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools}},
+            year   = {2026},
+            note   = {Working paper}
+          }
       - title: "Government-Guaranteed Lending in Crisis: Lessons from Chile's Credit Guarantee Program"
         url: "/research/files/Fogape_CrisisTool.pdf"
         status: "R&R · Latin American Journal of Central Banking"
         status_live: true
         featured: true
-
+        abstract: |-
+          Government-guaranteed lending programs were a central policy response to the COVID-19 shock. This paper examines Chile's pandemic expansion of its public credit-guarantee scheme—the Small and Medium Enterprise Guarantee Fund, or FOGAPE-COVID—as a case study for the design of crisis lending programs. It synthesizes key evaluations of the Chilean program, highlighting both its effectiveness in sustaining liquidity, employment, and credit flows and the operational and institutional challenges identified in the literature. The evidence indicates that the program mitigated immediate default risks and supported credit access for small and medium enterprises during the acute phase of the pandemic. However, long-term analyses reveal that it largely postponed rather than eliminated defaults, underscoring the importance of repayment structures and post-crisis solvency management. The partial guarantee structure preserved banks' screening incentives, reducing moral hazard and improving credit allocation. Additional design features—including interest rate caps, deductibles, and eligibility criteria—helped contain aggregate risk and fiscal exposure. The studies reviewed also emphasize the importance of intermediary behavior, particularly banks' responses to guarantee incentives, which can generate risk shifting that must be managed through careful program design and oversight.
+        bibtex: |-
+          @unpublished{sanchez2026government,
+            author = {Cristián Sánchez},
+            title  = {{Government-Guaranteed Lending in Crisis: Lessons from Chile's Credit Guarantee Program}},
+            year   = {2026},
+            note   = {Working paper}
+          }
       - title: "The Effects of Credit on Firms' Performance: A Survey"
         url: "/research/files/dEPS.pdf"
         coauthors: "Ramiro de Elejalde and Brian Pustilnik"
         status: "Reject & Resubmit · Latin American Journal of Central Banking"
-
+        abstract: |-
+          This paper surveys recent empirical literature examining the impact of credit supply shocks on firm performance. A critical methodological challenge is distinguishing between supply-driven and demand-driven changes in credit. We review studies employing matched bank-firm data and exploiting idiosyncratic bank-level variation to isolate supply shocks. The survey first explores how banks react to adverse shocks, often contracting credit. We then analyze how firms respond, highlighting the role of alternative financing sources. The core analysis focuses on the consequences of credit supply contractions for firm investment, employment, exports, and prices. The evidence indicates that investment is the most sensitive variable, with significant negative effects. Employment impacts are also generally negative, but often smaller and less consistent. We discuss indirect effects via the value chain and emphasize heterogeneous firm responses, particularly based on size and pre-existing credit constraints. Bank characteristics, such as capitalization, liquidity, and risk exposure, significantly influence their lending behavior during periods of stress. This survey synthesizes recent findings, including those from emerging economies, and identifies areas where further research is needed. The findings have important implications for policies aimed at strengthening the banking system and mitigating the adverse effects of credit supply shocks on firm performance.
+        bibtex: |-
+          @unpublished{deelejalde2025credit,
+            author = {Ramiro de Elejalde and Brian Pustilnik and Cristián Sánchez},
+            title  = {{The Effects of Credit on Firms' Performance: A Survey}},
+            year   = {2025},
+            note   = {Working paper}
+          }
       - title: "The Effects of For-Profit and Nonprofit Subsidized Schools on Academic Performance"
         url: "/research/files/fornonprofit_cs.pdf"
         status: "Submitted"
         links:
           - { label: "Online Appendix", href: "/research/files/fornonprofit_oappendix.pdf" }
-
+        abstract: |-
+          This paper estimates the test-score effects of attending for-profit and nonprofit private-voucher secondary schools in Chile. Using administrative data and value-added, instrumental-variables, and structural models, I estimate both average and distributional treatment effects. I find that both school types raise achievement relative to public schools, with larger gains in nonprofit schools. Treatment effects are heterogeneous: nonprofit schools benefit low-ability students the most, whereas gains from for-profit schools are more compressed across the ability distribution. Even so, both for-profit and nonprofit schools generate positive gains relative to public schools throughout the distribution of unobserved ability.
+        bibtex: |-
+          @unpublished{sanchez2026forprofit,
+            author = {Cristián Sánchez},
+            title  = {{The Effects of For-Profit and Nonprofit Subsidized Schools on Academic Performance}},
+            year   = {2026},
+            note   = {Working paper}
+          }
       - title: "The Gender Pay Gap in a Highly Regulated Market"
         url: "/research/files/Gender_Pay_Gap_Teachers_july2026.pdf"
         coauthors: "Paola Bordón, Ricardo Estrada and Miguel Sarzosa"
         status: "Submitted"
         featured: true
-
+        abstract: |-
+          This paper studies gender pay disparities in Mexico's public-school system, a highly regulated labor market with standardized pay schedules and centralized wage setting. Using administrative payroll data from 2016 to 2024, we compare teachers in identical positions within the same school to estimate gender differences in pay for equal work. We find an equal-work wage gap of 0.018 log points. About half of this gap is accounted for by slower progression of women through the horizontal promotion system. Gender differences in total earnings are larger, at 0.045 log points, reflecting both men's greater likelihood of holding multiple positions and the larger gender pay gap in teachers' secondary jobs. We also show that motherhood reduces women's wage rates—as well as labor supply and earnings—and identify one novel mechanism underlying the decline in wage rates: mothers' switching to working in localities with greater amenities but lower pay.
+        bibtex: |-
+          @unpublished{bordon2026gender,
+            author = {Paola Bordón and Ricardo Estrada and Cristián Sánchez and Miguel Sarzosa},
+            title  = {{The Gender Pay Gap in a Highly Regulated Market}},
+            year   = {2026},
+            note   = {Working paper}
+          }
       - title: "Selection in Crisis Lending: Evidence from Chile's Government-Guaranteed Loans"
         url: "/research/files/Chittaro-JMP.pdf"
         coauthors: "Lautaro Chittaro"
-
+        abstract: |-
+          We study the long-run effectiveness of government-guaranteed loan programs implemented during recent crises. Using administrative and loan application data from the Central Bank of Chile, we track firm defaults five years after the COVID-19 shock. Our instrumental-variable estimates show that these loans postponed defaults for two years but did not reduce total defaults in the long run. Banks used private information to direct credit toward firms that would have been safer even without the program. To assess the welfare implications of the delayed defaults and banks' selection of safer firms, we build a dynamic model of heterogeneous entrepreneurs disciplined by our causal estimates. The program generated welfare gains 21% above its fiscal cost, with limited rents for banks and modest increases in aggregate risk-taking. Younger firms are the most cost-effective group to support, yet they are the least likely to be approved because their growth relies on leverage, increasing default risk. A budget-neutral redesign that raises guarantees for younger firms and reduces them for the rest could increase welfare by 6pp.
+        bibtex: |-
+          @unpublished{chittaro2025selection,
+            author = {Lautaro Chittaro and Cristián Sánchez},
+            title  = {{Selection in Crisis Lending: Evidence from Chile's Government-Guaranteed Loans}},
+            year   = {2025},
+            note   = {Working paper}
+          }
       - title: "Equilibrium Effects of Immigrants on School Competition"
         url: "/research/files/EqmEffectsImmigrants.pdf"
         coauthors: "Faqiang Li, Diana Martínez and María Adelaida Martínez"
-
+        abstract: |-
+          In recent years, millions of children have been displaced, and evidence informing public policy for the welfare of migrants and recipient communities will be critical in the coming years. In this paper, we leverage cross-grade within-school variation on migrant share to identify the effect of the sudden influx of Venezuelan migrant children into the Peruvian school system. Our estimates show that as Venezuelan migrants enter Peruvian schools, parents of incumbent students react by transferring their children to higher-quality schools with fewer migrants. A ten-percentage-point increase in migrant exposure increases the probability of switching by 1.5 percentage points in primary and 1.1 percentage points in secondary schools. To understand the implications of this native flight on academic achievement, we build and estimate a structural model that identifies students who switch schools because of migrants and compare their outcomes in the presence of migrants to a counterfactual scenario without migrants. Our findings reveal that switchers experience small gains (close to zero), albeit at a higher tuition cost, while students left behind are not negatively impacted. This suggests that native flight can serve as an adaptive strategy only for some students to mitigate the effects of the migrant influx, but generally brings no gains to students who switch schools. Moreover, it comes at a high cost.
+        bibtex: |-
+          @unpublished{li2025immigrants,
+            author = {Faqiang Li and Diana Martínez and María Adelaida Martínez and Cristián Sánchez},
+            title  = {{Equilibrium Effects of Immigrants on School Competition}},
+            year   = {2025},
+            note   = {Working paper}
+          }
       - title: "Risk-Shifting Incentives Under Government Credit Guarantees"
         url: "/research/files/Risk_shifting_paper.pdf"
         coauthors: "Ramiro de Elejalde"
+        abstract: |-
+          This paper studies the risk-shifting behavior of banks under the FOGAPE COVID credit guarantee program in Chile, a large-scale program implemented during the pandemic. Exploiting the program's design, which features varying guarantee rates based on firm size, and using detailed tax and credit data, we investigate whether banks reclassify firms to obtain higher guarantee rates.
 
+          Our findings indicate significant reclassification of firms into the small-size category, which benefits from higher guarantee rates. This reclassification is more likely among firms with an existing credit history with the bank.
+
+          We develop a structural model to understand how these incentives vary by firm characteristics and to improve the program's design. Our results have important policy implications, suggesting that credit guarantee programs should carefully balance improving credit access with the potential for bank's moral hazard.
+        bibtex: |-
+          @unpublished{deelejalde2025risk,
+            author = {Ramiro de Elejalde and Cristián Sánchez},
+            title  = {{Risk-Shifting Incentives Under Government Credit Guarantees}},
+            year   = {2025},
+            note   = {Working paper}
+          }
       - title: "Supply-Side Responses to Targeted Vouchers"
         url: "/research/files/supply_side.pdf"
         coauthors: "Gabriel Cañedo Riedel"
         coverage:
           label: "Development Impact"
           href: "https://blogs.worldbank.org/impactevaluations/whats-latest-research-development-economics-roundup-neudc-2021?CID=WBW_AL_BlogNotification_EN_EXT"
-
+        abstract: |-
+          We examine schools' responses to a recent targeted voucher reform in Chile. Private schools' responses to the reform are quicker and larger than public schools' responses; however, schools in both sectors react to the policy along various margins. Private schools enter and exit the market more often. Public and private schools improve educational inputs related to school infrastructure and the teaching staff. Interestingly, private schools' fee responses are such that low income students see an increase in the average fee they face in the market, and higher income students see a decrease in the average fee they face.
+        bibtex: |-
+          @unpublished{canedoriedel2021supply,
+            author = {Gabriel Cañedo-Riedel and Cristián Sánchez},
+            title  = {{Supply-Side Responses to Targeted Vouchers}},
+            year   = {2021},
+            note   = {Working paper}
+          }
       - title: "The Schooling and Labor Market Effects of Vouchers"
         url: "/research/files/Schooling_Labor_Vouchers.pdf"
         coauthors: "Tomás Rau and Sergio Urzúa"
-
+        abstract: |-
+          We investigate the effects of attending a private-voucher high school on short- and longer-term educational outcomes, namely test scores, college enrollment, and college degree attainment. We do so by estimating a sequential model of schooling decisions and outcomes using data from Chile, a middle-income country with more than thirty of years of experience with a nationwide voucher program. Our model allows for both observed and unobserved characteristics to influence decisions and outcomes, and for heterogeneity in the treatment effect, even after controlling for selection and observed characteristics. We find that attending a voucher high school has positive effects on test scores (0.07σ and 0.01σ in verbal and math, respectively), small effects on college enrollment (1.9 p.p.), and no effects on the likelihood of earning a college degree. We also find substantial heterogeneity in the treatment effects, where in general low-ability students benefit more from vouchers than high-ability students. At the moment, we are in the process of merging our current data with labor market records to uncover the effects of vouchers on employment and wages.
+        bibtex: |-
+          @unpublished{rau2019schooling,
+            author = {Tomás Rau and Cristián Sánchez and Sergio Urzúa},
+            title  = {{The Schooling and Labor Market Effects of Vouchers}},
+            year   = {2019},
+            note   = {Working paper}
+          }
       - title: "The Design of Vouchers and Schools' Strategic Behavior: The Case of Chile"
         url: "/research/files/skip_exam_draft.pdf"
-
+        abstract: |-
+          I use rich administrative data from Chile and a difference-in-differences strategy to show that the positive effects on test scores of a recent targeted voucher reform found in the literature need to be taken with caution, as I find that the reform significantly decreased the likelihood that low-performing students take the national standardized tests. Specifically, low-performing students are 14.7 percentage points less likely to take the national exams four years after the introduction of the reform, while high-performing students are as likely to take the exams after the introduction of the reform as they were before. Such result cannot be explained by the observed increase in class attendance attributed to the program, but rather suggests a strategic response from schools to the requirement of constantly increasing performance in order to secure the receipt of the new subsidy. The ultimate consequence of this strategic behavior is that the resulting observed distribution of standardized test scores, an instrument that is used by the government to guide many of its policies, and by families to guide their enrollment decisions, may no longer be an accurate representation of the actual distribution, leading to inefficiencies in the allocation of resources.
+        bibtex: |-
+          @unpublished{sanchez2019design,
+            author = {Cristián Sánchez},
+            title  = {{The Design of Vouchers and Schools' Strategic Behavior: The Case of Chile}},
+            year   = {2019},
+            note   = {Working paper}
+          }
   - label: "Work in Progress"
     wip: true
     items:
       - title: "Carrots and Sticks for Teacher Colleges: The Equilibrium Design of Teacher Recruitment Policy"
         coauthors: "Adam Kapor and Christopher Neilson"
-
       - title: "Increasing Capacity at Elite High Schools Under Centralized Assignment"
         coauthors: "Arturo Aguilar, Adrián Martínez and Jorge Pérez"
-
       - title: "High Pay for High Performers in the Teaching Profession"
         coauthors: "Ricardo Estrada, Jorge Méndez and Mauricio Romero"
-
       - title: "Inputs and the School Quality Effects of Targeted Vouchers"
         coauthors: "Gabriel Cañedo Riedel"
-
       - title: "Price and Market Segmentation Consequences of Targeted Vouchers"
         coauthors: "Gabriel Cañedo Riedel and Emiliano Ramírez"
-
       - title: "Are For-Profit Schools Worth Trying? Evidence Across Multiple Treatment Margins"
         coauthors: "René Nieto"
-
       - title: "The Effects of an Information Intervention on Higher Education Decisions and Labor Market Outcomes"

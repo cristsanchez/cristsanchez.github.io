@@ -1,8 +1,6 @@
 // ---------- Design tokens (Warm Ledger) ----------
-:root {
-    --serif: 'Newsreader', 'EB Garamond', Georgia, 'Times New Roman', serif;
-    --sans:  'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-
+// Light palette + layout tokens
+@mixin tokens-light {
     --bg:         #fbfaf7;
     --bg-subtle:  #f2f0ea;
     --text:       #1f1d1a;
@@ -10,23 +8,37 @@
     --accent:     #2c4a6e;
     --accent-hover: #3f6ea3;
     --hairline:   #e2ded5;
+}
+// Warm dark palette
+@mixin tokens-dark {
+    --bg:         #16150f;
+    --bg-subtle:  #211f18;
+    --text:       #e9e4d8;
+    --text-muted: #a29b8b;
+    --accent:     #9db8d8;
+    --accent-hover: #c3d4ea;
+    --hairline:   #33302a;
+}
+
+:root {
+    --serif: 'Newsreader', 'EB Garamond', Georgia, 'Times New Roman', serif;
+    --sans:  'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    --mono:  'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 
     --wrap:    960px;
     --measure: 720px;
     --pad:     32px;
+
+    @include tokens-light;
 }
 
+// Default to the visitor's OS preference…
 @media (prefers-color-scheme: dark) {
-    :root {
-        --bg:         #16150f;
-        --bg-subtle:  #211f18;
-        --text:       #e9e4d8;
-        --text-muted: #a29b8b;
-        --accent:     #9db8d8;
-        --accent-hover: #c3d4ea;
-        --hairline:   #33302a;
-    }
+    :root { @include tokens-dark; }
 }
+// …but let an explicit choice win in either direction.
+:root[data-theme="light"] { @include tokens-light; }
+:root[data-theme="dark"]  { @include tokens-dark; }
 
 // ---------- Reset & base ----------
 * { box-sizing: border-box; }
