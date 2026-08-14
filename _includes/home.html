@@ -18,5 +18,11 @@
 <section class="section">
     <h2 class="h2">Selected work</h2>
     <p class="section-note">A few representative papers &mdash; the full list is on <a href="/research/">Research</a>.</p>
-    {% for group in site.data.publications.groups %}{% for item in group.items %}{% if item.featured %}{% include pub_entry.html item=item %}{% endif %}{% endfor %}{% endfor %}
+    {%- assign featured = "" | split: "" -%}
+    {%- for group in site.data.publications.groups -%}
+        {%- assign hits = group.items | where_exp: "i", "i.featured" -%}
+        {%- assign featured = featured | concat: hits -%}
+    {%- endfor -%}
+    {%- assign featured = featured | sort: "featured" -%}
+    {% for item in featured %}{% include pub_entry.html item=item %}{% endfor %}
 </section>

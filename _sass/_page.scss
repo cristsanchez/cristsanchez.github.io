@@ -68,6 +68,12 @@
 .intro-body {
     flex: 1 1 auto;
     min-width: 0;
+    // Bio prose is justified; hyphenation keeps the rag from opening rivers.
+    p {
+        text-align: justify;
+        hyphens: auto;
+        -webkit-hyphens: auto;
+    }
     .lead { font-size: 1.05rem; }
 }
 
@@ -77,6 +83,8 @@
     letter-spacing: 0.02em;
     color: var(--text-muted);
     margin: 18px 0 22px;
+    text-align: left;   // short label line: keep it ragged, not stretched
+    hyphens: manual;
     b { color: var(--text); font-weight: 600; }
 }
 
