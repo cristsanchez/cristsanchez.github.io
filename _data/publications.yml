@@ -10,6 +10,7 @@ groups:
         coauthors: "Bárbara Boggiano and Rocío Valdebenito"
         venue: "Applied Economics Letters"
         venue_detail: "accepted"
+        featured: true
         abstract: |-
           This note examines whether for-profit management affects educational outcomes in Chile's voucher system. Using administrative panel data for all voucher-subsidized primary schools from 2010 to 2014, we compare for-profit and nonprofit schools in terms of inputs and student performance. For-profit schools serve more disadvantaged students and rely on lower-cost inputs, such as less-qualified teachers, but they also provide more instructional hours and smaller classes. After controlling for student characteristics, a significant test-score gap remains, but it is largely explained by differences in school inputs. These results suggest that ownership matters mainly through differences in how schools allocate educational inputs.
         bibtex: |-
@@ -56,7 +57,6 @@ groups:
         url: "/research/files/Fogape_CrisisTool.pdf"
         status: "R&R · Latin American Journal of Central Banking"
         status_live: true
-        featured: true
         abstract: |-
           Government-guaranteed lending programs were a central policy response to the COVID-19 shock. This paper examines Chile's pandemic expansion of its public credit-guarantee scheme—the Small and Medium Enterprise Guarantee Fund, or FOGAPE-COVID—as a case study for the design of crisis lending programs. It synthesizes key evaluations of the Chilean program, highlighting both its effectiveness in sustaining liquidity, employment, and credit flows and the operational and institutional challenges identified in the literature. The evidence indicates that the program mitigated immediate default risks and supported credit access for small and medium enterprises during the acute phase of the pandemic. However, long-term analyses reveal that it largely postponed rather than eliminated defaults, underscoring the importance of repayment structures and post-crisis solvency management. The partial guarantee structure preserved banks' screening incentives, reducing moral hazard and improving credit allocation. Additional design features—including interest rate caps, deductibles, and eligibility criteria—helped contain aggregate risk and fiscal exposure. The studies reviewed also emphasize the importance of intermediary behavior, particularly banks' responses to guarantee incentives, which can generate risk shifting that must be managed through careful program design and oversight.
         bibtex: |-
