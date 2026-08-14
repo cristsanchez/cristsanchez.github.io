@@ -96,7 +96,7 @@ groups:
         url: "/research/files/Gender_Pay_Gap_Teachers_july2026.pdf"
         coauthors: "Paola Bordón, Ricardo Estrada and Miguel Sarzosa"
         status: "Submitted"
-        featured: 3
+        featured: 2
         abstract: |-
           This paper studies gender pay disparities in Mexico's public-school system, a highly regulated labor market with standardized pay schedules and centralized wage setting. Using administrative payroll data from 2016 to 2024, we compare teachers in identical positions within the same school to estimate gender differences in pay for equal work. We find an equal-work wage gap of 0.018 log points. About half of this gap is accounted for by slower progression of women through the horizontal promotion system. Gender differences in total earnings are larger, at 0.045 log points, reflecting both men's greater likelihood of holding multiple positions and the larger gender pay gap in teachers' secondary jobs. We also show that motherhood reduces women's wage rates—as well as labor supply and earnings—and identify one novel mechanism underlying the decline in wage rates: mothers' switching to working in localities with greater amenities but lower pay.
         bibtex: |-
@@ -109,7 +109,7 @@ groups:
       - title: "Selection in Crisis Lending: Evidence from Chile's Government-Guaranteed Loans"
         url: "/research/files/Chittaro-JMP.pdf"
         coauthors: "Lautaro Chittaro"
-        featured: 2
+        featured: 3
         abstract: |-
           We study the long-run effectiveness of government-guaranteed loan programs implemented during recent crises. Using administrative and loan application data from the Central Bank of Chile, we track firm defaults five years after the COVID-19 shock. Our instrumental-variable estimates show that these loans postponed defaults for two years but did not reduce total defaults in the long run. Banks used private information to direct credit toward firms that would have been safer even without the program. To assess the welfare implications of the delayed defaults and banks' selection of safer firms, we build a dynamic model of heterogeneous entrepreneurs disciplined by our causal estimates. The program generated welfare gains 21% above its fiscal cost, with limited rents for banks and modest increases in aggregate risk-taking. Younger firms are the most cost-effective group to support, yet they are the least likely to be approved because their growth relies on leverage, increasing default risk. A budget-neutral redesign that raises guarantees for younger firms and reduces them for the rest could increase welfare by 6pp.
         bibtex: |-
