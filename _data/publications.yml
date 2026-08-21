@@ -6,10 +6,12 @@ groups:
   - label: "Publications"
     items:
       - title: "To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools"
-        url: "/research/files/BSV1.pdf"
+        url: "https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2720567"
         coauthors: "Bárbara Boggiano and Rocío Valdebenito"
         venue: "Applied Economics Letters"
         venue_detail: "accepted"
+        links:
+          - { label: "PDF", href: "/research/files/BSV1.pdf" }
         abstract: |-
           This note examines whether for-profit management affects educational outcomes in Chile's voucher system. Using administrative panel data for all voucher-subsidized primary schools from 2010 to 2014, we compare for-profit and nonprofit schools in terms of inputs and student performance. For-profit schools serve more disadvantaged students and rely on lower-cost inputs, such as less-qualified teachers, but they also provide more instructional hours and smaller classes. After controlling for student characteristics, a significant test-score gap remains, but it is largely explained by differences in school inputs. These results suggest that ownership matters mainly through differences in how schools allocate educational inputs.
         bibtex: |-
@@ -18,6 +20,7 @@ groups:
             title   = {{To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools}},
             journal = {Applied Economics Letters},
             year    = {2026},
+            doi     = {10.1080/13504851.2026.2720567},
             note    = {Accepted}
           }
       - title: "The Effects of Educated Leaders on Policy and Politics: Quasi-Experimental Evidence from Brazil"
