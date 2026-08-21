@@ -9,7 +9,7 @@ groups:
         url: "https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2720567"
         coauthors: "Bárbara Boggiano and Rocío Valdebenito"
         venue: "Applied Economics Letters"
-        venue_detail: "accepted"
+        venue_detail: "2026"
         links:
           - { label: "PDF", href: "/research/files/BSV1.pdf" }
         abstract: |-
@@ -20,8 +20,7 @@ groups:
             title   = {{To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools}},
             journal = {Applied Economics Letters},
             year    = {2026},
-            doi     = {10.1080/13504851.2026.2720567},
-            note    = {Accepted}
+            doi     = {10.1080/13504851.2026.2720567}
           }
       - title: "The Effects of Educated Leaders on Policy and Politics: Quasi-Experimental Evidence from Brazil"
         url: "https://www.latinaer.org/index.php/laer/article/view/198"
