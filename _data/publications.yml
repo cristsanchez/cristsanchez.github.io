@@ -99,6 +99,8 @@ groups:
         coauthors: "Paola Bordón, Ricardo Estrada and Miguel Sarzosa"
         status: "Submitted"
         featured: 2
+        links:
+          - { label: "Blog: CAF", href: "https://www.caf.com/es/blog/mismo-puesto-mismo-tabulador-alcanza-para-cerrar-la-brecha-de-genero-en-los-ingresos-laborales/" }
         abstract: |-
           This paper studies gender pay disparities in Mexico's public-school system, a highly regulated labor market with standardized pay schedules and centralized wage setting. Using administrative payroll data from 2016 to 2024, we compare teachers in identical positions within the same school to estimate gender differences in pay for equal work. We find an equal-work wage gap of 0.018 log points. About half of this gap is accounted for by slower progression of women through the horizontal promotion system. Gender differences in total earnings are larger, at 0.045 log points, reflecting both men's greater likelihood of holding multiple positions and the larger gender pay gap in teachers' secondary jobs. We also show that motherhood reduces women's wage rates—as well as labor supply and earnings—and identify one novel mechanism underlying the decline in wage rates: mothers' switching to working in localities with greater amenities but lower pay.
         bibtex: |-
