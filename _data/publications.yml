@@ -123,16 +123,40 @@ groups:
             year   = {2025},
             note   = {Working paper}
           }
-      - title: "Equilibrium Effects of Immigrants on School Competition"
-        url: "/research/files/EqmEffectsImmigrants.pdf"
-        coauthors: "Faqiang Li, Diana Martínez and María Adelaida Martínez"
+      - title: "When Schools Are Full: Capacity Constraints and the Absorption of a Migration Shock"
+        url: "/research/files/WhenSchoolsAreFull.pdf"
+        coauthors: "Faqiang Li, Diana Martínez Heredia and María Adelaida Martínez Cabrera"
         abstract: |-
-          In recent years, millions of children have been displaced, and evidence informing public policy for the welfare of migrants and recipient communities will be critical in the coming years. In this paper, we leverage cross-grade within-school variation on migrant share to identify the effect of the sudden influx of Venezuelan migrant children into the Peruvian school system. Our estimates show that as Venezuelan migrants enter Peruvian schools, parents of incumbent students react by transferring their children to higher-quality schools with fewer migrants. A ten-percentage-point increase in migrant exposure increases the probability of switching by 1.5 percentage points in primary and 1.1 percentage points in secondary schools. To understand the implications of this native flight on academic achievement, we build and estimate a structural model that identifies students who switch schools because of migrants and compare their outcomes in the presence of migrants to a counterfactual scenario without migrants. Our findings reveal that switchers experience small gains (close to zero), albeit at a higher tuition cost, while students left behind are not negatively impacted. This suggests that native flight can serve as an adaptive strategy only for some students to mitigate the effects of the migrant influx, but generally brings no gains to students who switch schools. Moreover, it comes at a high cost.
+          Between 2017 and 2019 Peru's primary schools absorbed 46,000 Venezuelan children, four fifths of them in ten cities, into a public system whose capacity is fixed a year ahead by teaching posts allocated at thirty pupils per section. We use the universe of enrollment records and school censuses to ask how a school system with no slack absorbs an unanticipated demand shock and how the families already in it respond. Public schools near the inflow grew, and they made room almost entirely by enlarging sections: nine tenths of the additional pupils sat in existing sections, the share of sections above the norm rose by seven percentage points in the most exposed cities, and teaching posts remained unchanged within the three years. Private schools did not respond on any margin, neither fees, nor posts, nor sections, and lost a few pupils. Families in exposed grades moved to other schools, toward schools with fewer migrants, and a full school did not slow them down. Capacity mattered on a different margin. Full public schools that received migrants held back fewer pupils and increased dropouts. We write down a model of school choice with a public sector that allocates posts by rule and rations seats, and a private sector with fixed capacity, whose primitives are the resourcing rate and the rationing rule we estimate, and we set out the counterfactuals it will answer: full compliance with the staffing norm, resources that follow pupils, vouchers into a private sector at capacity, and the placement of migrant children across schools with room.
         bibtex: |-
-          @unpublished{li2025immigrants,
-            author = {Faqiang Li and Diana Martínez and María Adelaida Martínez and Cristián Sánchez},
-            title  = {{Equilibrium Effects of Immigrants on School Competition}},
-            year   = {2025},
+          @unpublished{li2026schools,
+            author = {Faqiang Li and Diana Martínez Heredia and María Adelaida Martínez Cabrera and Cristián Sánchez},
+            title  = {{When Schools Are Full: Capacity Constraints and the Absorption of a Migration Shock}},
+            year   = {2026},
+            note   = {Working paper}
+          }
+      - title: "The Role of Private-Voucher Schools in the Education-to-Work Transition"
+        url: "/research/files/EducationToWorkTransition.pdf"
+        coauthors: "Tomás Rau and Sergio Urzúa"
+        abstract: |-
+          We study how private-voucher high schools shape the transition from school to work in Chile. They raise their students' wages and their chances of holding a formal job, notwithstanding their inability to shift higher education attainment. Using administrative data that follow a cohort of public-primary eighth graders into higher education and the labor market, we combine value-added regressions with a sequential model of schooling choices and outcomes. We find that what higher education pays depends on the type of program as much as on completing it. A professional degree raises wages by 0.60 log points relative to a high-school diploma; a technical degree raises wages by 0.37 log points. On the other hand, an incomplete professional spell lowers wages by 0.18 log points and formal employment by 9 percentage points (p.p.), while an incomplete technical spell lowers neither. Because fewer than a quarter of those who start a professional program finish it, the expected return to enrolling in one is statistically indistinguishable from zero, against 0.14 log points for a technical program, and it carries substantially more risk. Attending a private-voucher high school raises higher-education enrollment by 1.8 percentage points, and the increase is entirely professional, drawn out of non-enrollment. However, all of that increase in enrollment materializes in professional dropout, that rises by 1.8 p.p. Yet wages rise by 0.06 log points, and three-quarters of students face a positive expected gain. Essentially all of the positive labor market effects of vouchers come from higher pay within schooling states.
+        bibtex: |-
+          @unpublished{rau2026education,
+            author = {Tomás Rau and Cristián Sánchez and Sergio Urzúa},
+            title  = {{The Role of Private-Voucher Schools in the Education-to-Work Transition}},
+            year   = {2026},
+            note   = {Working paper}
+          }
+      - title: "Price and Market Segmentation Consequences of Targeted Vouchers"
+        url: "/research/files/PricesAndSegmentation.pdf"
+        coauthors: "Gabriel Cañedo Riedel and Emiliano Ramírez"
+        abstract: |-
+          We study how a large targeted voucher reform reshapes tuition-setting incentives and market segmentation in competitive education markets. We focus on Chile's targeted voucher program, introduced in 2008, which increased per-student funding for disadvantaged pupils while prohibiting participating schools from charging top-up fees to eligible students; participation was voluntary. Using administrative data covering the universe of schools and students over 2004–2015, we exploit cross-municipality variation in pre-reform eligibility shares in an event-study design to estimate equilibrium effects on school fees. Throughout, we distinguish between the posted (sticker) top-up fees that schools set and the out-of-pocket fees that particular households face, which under the reform are zero for eligible students at participating schools. We find that the reform segments the price schedule. Posted fees—the fees non-eligible households pay—fall on average in more exposed markets, consistent with participating schools cutting top-up fees for higher-income families. In contrast, the average posted fee attached to the schooling options of eligible students rises in more exposed markets: although eligible students pay nothing at participating schools, schools that opt out of the program raise their fees, moving upmarket. We interpret these patterns through models of school competition with peer effects and sorting, and we provide supporting evidence from a pre-reform school choice model with peer composition that families exhibit economically meaningful willingness to pay to avoid low-income peers.
+        bibtex: |-
+          @unpublished{canedoriedel2026prices,
+            author = {Gabriel Cañedo Riedel and Emiliano Ramírez and Cristián Sánchez},
+            title  = {{Price and Market Segmentation Consequences of Targeted Vouchers}},
+            year   = {2026},
             note   = {Working paper}
           }
       - title: "Risk-Shifting Incentives Under Government Credit Guarantees"
@@ -166,18 +190,6 @@ groups:
             year   = {2021},
             note   = {Working paper}
           }
-      - title: "The Schooling and Labor Market Effects of Vouchers"
-        url: "/research/files/Schooling_Labor_Vouchers.pdf"
-        coauthors: "Tomás Rau and Sergio Urzúa"
-        abstract: |-
-          We investigate the effects of attending a private-voucher high school on short- and longer-term educational outcomes, namely test scores, college enrollment, and college degree attainment. We do so by estimating a sequential model of schooling decisions and outcomes using data from Chile, a middle-income country with more than thirty of years of experience with a nationwide voucher program. Our model allows for both observed and unobserved characteristics to influence decisions and outcomes, and for heterogeneity in the treatment effect, even after controlling for selection and observed characteristics. We find that attending a voucher high school has positive effects on test scores (0.07σ and 0.01σ in verbal and math, respectively), small effects on college enrollment (1.9 p.p.), and no effects on the likelihood of earning a college degree. We also find substantial heterogeneity in the treatment effects, where in general low-ability students benefit more from vouchers than high-ability students. At the moment, we are in the process of merging our current data with labor market records to uncover the effects of vouchers on employment and wages.
-        bibtex: |-
-          @unpublished{rau2019schooling,
-            author = {Tomás Rau and Cristián Sánchez and Sergio Urzúa},
-            title  = {{The Schooling and Labor Market Effects of Vouchers}},
-            year   = {2019},
-            note   = {Working paper}
-          }
       - title: "The Design of Vouchers and Schools' Strategic Behavior: The Case of Chile"
         url: "/research/files/skip_exam_draft.pdf"
         abstract: |-
@@ -200,8 +212,6 @@ groups:
         coauthors: "Ricardo Estrada, Jorge Méndez and Mauricio Romero"
       - title: "Inputs and the School Quality Effects of Targeted Vouchers"
         coauthors: "Gabriel Cañedo Riedel"
-      - title: "Price and Market Segmentation Consequences of Targeted Vouchers"
-        coauthors: "Gabriel Cañedo Riedel and Emiliano Ramírez"
       - title: "Are For-Profit Schools Worth Trying? Evidence Across Multiple Treatment Margins"
         coauthors: "René Nieto"
       - title: "The Effects of an Information Intervention on Higher Education Decisions and Labor Market Outcomes"
