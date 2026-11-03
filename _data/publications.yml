@@ -3,7 +3,7 @@
 # links[], featured, abstract, bibtex. See _includes/pub_entry.html.
 
 groups:
-  - label: "Education"
+  - label: "Education Markets"
     items:
       - title: "To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools"
         url: "https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2720567"
@@ -122,7 +122,7 @@ groups:
         coauthors: "Gabriel Cañedo Riedel"
       - title: "Are For-Profit Schools Worth Trying? Evidence Across Multiple Treatment Margins"
         coauthors: "René Nieto"
-  - label: "Labor"
+  - label: "Labor Markets"
     items:
       - title: "The Gender Pay Gap in a Highly Regulated Market"
         url: "/research/files/Gender_Pay_Gap_Teachers_july2026.pdf"
