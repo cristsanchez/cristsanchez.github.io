@@ -2,6 +2,6 @@
 layout: page
 permalink: /research/
 title: Research
-subtitle: Publications, working papers, and work in progress.
+subtitle: "My work empirically examines education, labor, and credit markets, mostly from Latin American"
 ---
 {% include pubs.html %}
