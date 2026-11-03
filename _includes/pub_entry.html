@@ -1,5 +1,5 @@
 {% assign p = include.item %}
-<div class="pub{% if include.wip %} wip{% endif %}">
+<div class="pub">
     {% if p.url %}<a class="pub-title" href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a>{% else %}<span class="pub-title">{{ p.title }}</span>{% endif %}
     {% if p.coauthors or p.venue or p.status %}
     <div class="pub-meta">

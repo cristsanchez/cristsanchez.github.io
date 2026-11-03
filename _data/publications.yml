@@ -3,7 +3,7 @@
 # links[], featured, abstract, bibtex. See _includes/pub_entry.html.
 
 groups:
-  - label: "Publications"
+  - label: "Education"
     items:
       - title: "To Profit or not to Profit? Evidence from Chile's For-Profit Voucher Schools"
         url: "https://www.tandfonline.com/doi/full/10.1080/13504851.2026.2720567"
@@ -38,8 +38,6 @@ groups:
             year    = {2024},
             doi     = {10.60758/laer.v33i.198}
           }
-  - label: "Working Papers"
-    items:
       - title: "Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition"
         url: "/research/files/csanchez_resubjpe.pdf"
         status: "R&R (2nd round) · Journal of Political Economy"
@@ -52,32 +50,6 @@ groups:
             author = {Cristián Sánchez},
             title  = {{Equilibrium Consequences of Vouchers Under Simultaneous Extensive and Intensive Margins Competition}},
             year   = {2026},
-            note   = {Working paper}
-          }
-      - title: "Government-Guaranteed Lending in Crisis: Lessons from Chile's Credit Guarantee Program"
-        url: "/research/files/Fogape_CrisisTool.pdf"
-        status: "Revised & Resubmitted · Latin American Journal of Central Banking"
-        status_live: true
-        abstract: |-
-          Government-guaranteed lending was a central policy response to the COVID-19 shock. This paper synthesizes the evidence on Chile's pandemic expansion of its public credit-guarantee scheme—the Small and Medium Enterprise Guarantee Fund, or FOGAPE-COVID—and organizes it around five design levers: targeting and eligibility, risk-sharing and pricing, bank incentives and oversight, coordination with complementary policies, and repayment and exit. Three results emerge from reading the studies jointly. First, the parameters that govern fiscal exposure are the exclusion screen and the loan-size cap rather than the headline coverage rate: relaxing the default-based eligibility screen would have raised expected losses by a factor of 2.7, and a 2.5% first-loss deductible was the difference between the government bearing 41% and 77% of those losses. Second, whether the program prevented defaults or merely deferred them is unresolved: the two studies of the crisis program that address the question reach opposite conclusions. I show that these differences follow from comparison groups, horizons, and crisis-specific screens and caps rather than from the data, with direct implications for how such programs should be wound down. Third, the repayment phase, not the disbursement phase, is where the Chilean evidence is thinnest and where the international record is most cautionary. The paper concludes with a research agenda for crisis lending.
-        bibtex: |-
-          @unpublished{sanchez2026government,
-            author = {Cristián Sánchez},
-            title  = {{Government-Guaranteed Lending in Crisis: Lessons from Chile's Credit Guarantee Program}},
-            year   = {2026},
-            note   = {Working paper}
-          }
-      - title: "The Effects of Credit on Firms' Performance: A Survey"
-        url: "/research/files/dEPS.pdf"
-        coauthors: "Ramiro de Elejalde and Brian Pustilnik"
-        status: "Reject & Resubmit · Latin American Journal of Central Banking"
-        abstract: |-
-          This paper surveys recent empirical literature examining the impact of credit supply shocks on firm performance. A critical methodological challenge is distinguishing between supply-driven and demand-driven changes in credit. We review studies employing matched bank-firm data and exploiting idiosyncratic bank-level variation to isolate supply shocks. The survey first explores how banks react to adverse shocks, often contracting credit. We then analyze how firms respond, highlighting the role of alternative financing sources. The core analysis focuses on the consequences of credit supply contractions for firm investment, employment, exports, and prices. The evidence indicates that investment is the most sensitive variable, with significant negative effects. Employment impacts are also generally negative, but often smaller and less consistent. We discuss indirect effects via the value chain and emphasize heterogeneous firm responses, particularly based on size and pre-existing credit constraints. Bank characteristics, such as capitalization, liquidity, and risk exposure, significantly influence their lending behavior during periods of stress. This survey synthesizes recent findings, including those from emerging economies, and identifies areas where further research is needed. The findings have important implications for policies aimed at strengthening the banking system and mitigating the adverse effects of credit supply shocks on firm performance.
-        bibtex: |-
-          @unpublished{deelejalde2025credit,
-            author = {Ramiro de Elejalde and Brian Pustilnik and Cristián Sánchez},
-            title  = {{The Effects of Credit on Firms' Performance: A Survey}},
-            year   = {2025},
             note   = {Working paper}
           }
       - title: "The Effects of For-Profit and Nonprofit Subsidized Schools on Academic Performance"
@@ -94,34 +66,6 @@ groups:
             year   = {2026},
             note   = {Working paper}
           }
-      - title: "The Gender Pay Gap in a Highly Regulated Market"
-        url: "/research/files/Gender_Pay_Gap_Teachers_july2026.pdf"
-        coauthors: "Paola Bordón, Ricardo Estrada and Miguel Sarzosa"
-        featured: 2
-        links:
-          - { label: "Blog: CAF", href: "https://www.caf.com/es/blog/mismo-puesto-mismo-tabulador-alcanza-para-cerrar-la-brecha-de-genero-en-los-ingresos-laborales/" }
-        abstract: |-
-          This paper studies gender pay disparities in Mexico's public-school system, a highly regulated labor market with standardized pay schedules and centralized wage setting. Using administrative payroll data from 2016 to 2024, we compare teachers in identical positions within the same school to estimate gender differences in pay for equal work. We find an equal-work wage gap of 0.018 log points. About half of this gap is accounted for by slower progression of women through the horizontal promotion system. Gender differences in total earnings are larger, at 0.045 log points, reflecting both men's greater likelihood of holding multiple positions and the larger gender pay gap in teachers' secondary jobs. We also show that motherhood reduces women's wage rates—as well as labor supply and earnings—and identify one novel mechanism underlying the decline in wage rates: mothers' switching to working in localities with greater amenities but lower pay.
-        bibtex: |-
-          @unpublished{bordon2026gender,
-            author = {Paola Bordón and Ricardo Estrada and Cristián Sánchez and Miguel Sarzosa},
-            title  = {{The Gender Pay Gap in a Highly Regulated Market}},
-            year   = {2026},
-            note   = {Working paper}
-          }
-      - title: "Selection in Crisis Lending: Evidence from Chile's Government-Guaranteed Loans"
-        url: "/research/files/Chittaro-JMP.pdf"
-        coauthors: "Lautaro Chittaro"
-        featured: 3
-        abstract: |-
-          We study the long-run effectiveness of government-guaranteed loan programs implemented during recent crises. Using administrative and loan application data from the Central Bank of Chile, we track firm defaults five years after the COVID-19 shock. Our instrumental-variable estimates show that these loans postponed defaults for two years but did not reduce total defaults in the long run. Banks used private information to direct credit toward firms that would have been safer even without the program. To assess the welfare implications of the delayed defaults and banks' selection of safer firms, we build a dynamic model of heterogeneous entrepreneurs disciplined by our causal estimates. The program generated welfare gains 21% above its fiscal cost, with limited rents for banks and modest increases in aggregate risk-taking. Younger firms are the most cost-effective group to support, yet they are the least likely to be approved because their growth relies on leverage, increasing default risk. A budget-neutral redesign that raises guarantees for younger firms and reduces them for the rest could increase welfare by 6pp.
-        bibtex: |-
-          @unpublished{chittaro2025selection,
-            author = {Lautaro Chittaro and Cristián Sánchez},
-            title  = {{Selection in Crisis Lending: Evidence from Chile's Government-Guaranteed Loans}},
-            year   = {2025},
-            note   = {Working paper}
-          }
       - title: "When Schools Are Full: Capacity Constraints and the Absorption of a Migration Shock"
         url: "/research/files/WhenSchoolsAreFull.pdf"
         coauthors: "Faqiang Li, Diana Martínez Heredia and María Adelaida Martínez Cabrera"
@@ -131,18 +75,6 @@ groups:
           @unpublished{li2026schools,
             author = {Faqiang Li and Diana Martínez Heredia and María Adelaida Martínez Cabrera and Cristián Sánchez},
             title  = {{When Schools Are Full: Capacity Constraints and the Absorption of a Migration Shock}},
-            year   = {2026},
-            note   = {Working paper}
-          }
-      - title: "The Role of Private-Voucher Schools in the Education-to-Work Transition"
-        url: "/research/files/EducationToWorkTransition.pdf"
-        coauthors: "Tomás Rau and Sergio Urzúa"
-        abstract: |-
-          We study how private-voucher high schools shape the transition from school to work in Chile. Using administrative data that follow a cohort of public-primary eighth graders into higher education and the labor market, we estimate overall and sector-specific returns with schooling, and ask whether vouchers are associated with higher returns to various schooling levels, and whether vouchers induce different schooling paths, relative to public high schools. We find that what higher education pays depends on the type of program as much as on completing it. A professional degree raises wages by 0.36 log points relative to a high-school diploma; a technical degree raises wages by 0.24 log points. Conversely, an incomplete professional spell lowers wages by 0.23 log points, while an incomplete technical spell raises wages by 0.06 log points. Because completion is far from assured, the expected return to enrolling in a professional program is statistically indistinguishable from zero, against a technical program's 0.14 log points, and it carries substantially more risk. Attending a private-voucher high school raises higher-education enrollment by 2 percentage points, and the increase is entirely professional. However, most of that increase materializes in dropout. Yet wages rise by 0.06 log points. We conclude that essentially all of the positive effects of vouchers on labor market outcomes come from higher returns within schooling states.
-        bibtex: |-
-          @unpublished{rau2026education,
-            author = {Tomás Rau and Cristián Sánchez and Sergio Urzúa},
-            title  = {{The Role of Private-Voucher Schools in the Education-to-Work Transition}},
             year   = {2026},
             note   = {Working paper}
           }
@@ -156,22 +88,6 @@ groups:
             author = {Gabriel Cañedo Riedel and Emiliano Ramírez and Cristián Sánchez},
             title  = {{Price and Market Segmentation Consequences of Targeted Vouchers}},
             year   = {2026},
-            note   = {Working paper}
-          }
-      - title: "Risk-Shifting Incentives Under Government Credit Guarantees"
-        url: "/research/files/Risk_shifting_paper.pdf"
-        coauthors: "Ramiro de Elejalde"
-        abstract: |-
-          This paper studies the risk-shifting behavior of banks under the FOGAPE COVID credit guarantee program in Chile, a large-scale program implemented during the pandemic. Exploiting the program's design, which features varying guarantee rates based on firm size, and using detailed tax and credit data, we investigate whether banks reclassify firms to obtain higher guarantee rates.
-
-          Our findings indicate significant reclassification of firms into the small-size category, which benefits from higher guarantee rates. This reclassification is more likely among firms with an existing credit history with the bank.
-
-          We develop a structural model to understand how these incentives vary by firm characteristics and to improve the program's design. Our results have important policy implications, suggesting that credit guarantee programs should carefully balance improving credit access with the potential for bank's moral hazard.
-        bibtex: |-
-          @unpublished{deelejalde2025risk,
-            author = {Ramiro de Elejalde and Cristián Sánchez},
-            title  = {{Risk-Shifting Incentives Under Government Credit Guarantees}},
-            year   = {2025},
             note   = {Working paper}
           }
       - title: "Supply-Side Responses to Targeted Vouchers"
@@ -200,22 +116,105 @@ groups:
             year   = {2019},
             note   = {Working paper}
           }
-  - label: "Work in Progress"
-    wip: true
+      - title: "Increasing Capacity at Elite High Schools Under Centralized Assignment"
+        coauthors: "Arturo Aguilar, Adrián Martínez and Jorge Pérez"
+      - title: "Inputs and the School Quality Effects of Targeted Vouchers"
+        coauthors: "Gabriel Cañedo Riedel"
+      - title: "Are For-Profit Schools Worth Trying? Evidence Across Multiple Treatment Margins"
+        coauthors: "René Nieto"
+  - label: "Labor"
     items:
+      - title: "The Gender Pay Gap in a Highly Regulated Market"
+        url: "/research/files/Gender_Pay_Gap_Teachers_july2026.pdf"
+        coauthors: "Paola Bordón, Ricardo Estrada and Miguel Sarzosa"
+        featured: 2
+        links:
+          - { label: "Blog: CAF", href: "https://www.caf.com/es/blog/mismo-puesto-mismo-tabulador-alcanza-para-cerrar-la-brecha-de-genero-en-los-ingresos-laborales/" }
+        abstract: |-
+          This paper studies gender pay disparities in Mexico's public-school system, a highly regulated labor market with standardized pay schedules and centralized wage setting. Using administrative payroll data from 2016 to 2024, we compare teachers in identical positions within the same school to estimate gender differences in pay for equal work. We find an equal-work wage gap of 0.018 log points. About half of this gap is accounted for by slower progression of women through the horizontal promotion system. Gender differences in total earnings are larger, at 0.045 log points, reflecting both men's greater likelihood of holding multiple positions and the larger gender pay gap in teachers' secondary jobs. We also show that motherhood reduces women's wage rates—as well as labor supply and earnings—and identify one novel mechanism underlying the decline in wage rates: mothers' switching to working in localities with greater amenities but lower pay.
+        bibtex: |-
+          @unpublished{bordon2026gender,
+            author = {Paola Bordón and Ricardo Estrada and Cristián Sánchez and Miguel Sarzosa},
+            title  = {{The Gender Pay Gap in a Highly Regulated Market}},
+            year   = {2026},
+            note   = {Working paper}
+          }
+      - title: "The Role of Private-Voucher Schools in the Education-to-Work Transition"
+        url: "/research/files/EducationToWorkTransition.pdf"
+        coauthors: "Tomás Rau and Sergio Urzúa"
+        abstract: |-
+          We study how private-voucher high schools shape the transition from school to work in Chile. Using administrative data that follow a cohort of public-primary eighth graders into higher education and the labor market, we estimate overall and sector-specific returns with schooling, and ask whether vouchers are associated with higher returns to various schooling levels, and whether vouchers induce different schooling paths, relative to public high schools. We find that what higher education pays depends on the type of program as much as on completing it. A professional degree raises wages by 0.36 log points relative to a high-school diploma; a technical degree raises wages by 0.24 log points. Conversely, an incomplete professional spell lowers wages by 0.23 log points, while an incomplete technical spell raises wages by 0.06 log points. Because completion is far from assured, the expected return to enrolling in a professional program is statistically indistinguishable from zero, against a technical program's 0.14 log points, and it carries substantially more risk. Attending a private-voucher high school raises higher-education enrollment by 2 percentage points, and the increase is entirely professional. However, most of that increase materializes in dropout. Yet wages rise by 0.06 log points. We conclude that essentially all of the positive effects of vouchers on labor market outcomes come from higher returns within schooling states.
+        bibtex: |-
+          @unpublished{rau2026education,
+            author = {Tomás Rau and Cristián Sánchez and Sergio Urzúa},
+            title  = {{The Role of Private-Voucher Schools in the Education-to-Work Transition}},
+            year   = {2026},
+            note   = {Working paper}
+          }
       - title: "Carrots and Sticks for Teacher Colleges: The Equilibrium Design of Teacher Recruitment Policy"
         coauthors: "Adam Kapor and Christopher Neilson"
+      - title: "High Pay for High Performers in the Teaching Profession"
+        coauthors: "Ricardo Estrada, Jorge Méndez and Mauricio Romero"
+  - label: "Credit and Financial Markets"
+    items:
+      - title: "Government-Guaranteed Lending in Crisis: Lessons from Chile's Credit Guarantee Program"
+        url: "/research/files/Fogape_CrisisTool.pdf"
+        status: "Revised & Resubmitted · Latin American Journal of Central Banking"
+        status_live: true
+        abstract: |-
+          Government-guaranteed lending was a central policy response to the COVID-19 shock. This paper synthesizes the evidence on Chile's pandemic expansion of its public credit-guarantee scheme—the Small and Medium Enterprise Guarantee Fund, or FOGAPE-COVID—and organizes it around five design levers: targeting and eligibility, risk-sharing and pricing, bank incentives and oversight, coordination with complementary policies, and repayment and exit. Three results emerge from reading the studies jointly. First, the parameters that govern fiscal exposure are the exclusion screen and the loan-size cap rather than the headline coverage rate: relaxing the default-based eligibility screen would have raised expected losses by a factor of 2.7, and a 2.5% first-loss deductible was the difference between the government bearing 41% and 77% of those losses. Second, whether the program prevented defaults or merely deferred them is unresolved: the two studies of the crisis program that address the question reach opposite conclusions. I show that these differences follow from comparison groups, horizons, and crisis-specific screens and caps rather than from the data, with direct implications for how such programs should be wound down. Third, the repayment phase, not the disbursement phase, is where the Chilean evidence is thinnest and where the international record is most cautionary. The paper concludes with a research agenda for crisis lending.
+        bibtex: |-
+          @unpublished{sanchez2026government,
+            author = {Cristián Sánchez},
+            title  = {{Government-Guaranteed Lending in Crisis: Lessons from Chile's Credit Guarantee Program}},
+            year   = {2026},
+            note   = {Working paper}
+          }
+      - title: "The Effects of Credit on Firms' Performance: A Survey"
+        url: "/research/files/dEPS.pdf"
+        coauthors: "Ramiro de Elejalde and Brian Pustilnik"
+        status: "Reject & Resubmit · Latin American Journal of Central Banking"
+        abstract: |-
+          This paper surveys recent empirical literature examining the impact of credit supply shocks on firm performance. A critical methodological challenge is distinguishing between supply-driven and demand-driven changes in credit. We review studies employing matched bank-firm data and exploiting idiosyncratic bank-level variation to isolate supply shocks. The survey first explores how banks react to adverse shocks, often contracting credit. We then analyze how firms respond, highlighting the role of alternative financing sources. The core analysis focuses on the consequences of credit supply contractions for firm investment, employment, exports, and prices. The evidence indicates that investment is the most sensitive variable, with significant negative effects. Employment impacts are also generally negative, but often smaller and less consistent. We discuss indirect effects via the value chain and emphasize heterogeneous firm responses, particularly based on size and pre-existing credit constraints. Bank characteristics, such as capitalization, liquidity, and risk exposure, significantly influence their lending behavior during periods of stress. This survey synthesizes recent findings, including those from emerging economies, and identifies areas where further research is needed. The findings have important implications for policies aimed at strengthening the banking system and mitigating the adverse effects of credit supply shocks on firm performance.
+        bibtex: |-
+          @unpublished{deelejalde2025credit,
+            author = {Ramiro de Elejalde and Brian Pustilnik and Cristián Sánchez},
+            title  = {{The Effects of Credit on Firms' Performance: A Survey}},
+            year   = {2025},
+            note   = {Working paper}
+          }
+      - title: "Selection in Crisis Lending: Evidence from Chile's Government-Guaranteed Loans"
+        url: "/research/files/Chittaro-JMP.pdf"
+        coauthors: "Lautaro Chittaro"
+        featured: 3
+        abstract: |-
+          We study the long-run effectiveness of government-guaranteed loan programs implemented during recent crises. Using administrative and loan application data from the Central Bank of Chile, we track firm defaults five years after the COVID-19 shock. Our instrumental-variable estimates show that these loans postponed defaults for two years but did not reduce total defaults in the long run. Banks used private information to direct credit toward firms that would have been safer even without the program. To assess the welfare implications of the delayed defaults and banks' selection of safer firms, we build a dynamic model of heterogeneous entrepreneurs disciplined by our causal estimates. The program generated welfare gains 21% above its fiscal cost, with limited rents for banks and modest increases in aggregate risk-taking. Younger firms are the most cost-effective group to support, yet they are the least likely to be approved because their growth relies on leverage, increasing default risk. A budget-neutral redesign that raises guarantees for younger firms and reduces them for the rest could increase welfare by 6pp.
+        bibtex: |-
+          @unpublished{chittaro2025selection,
+            author = {Lautaro Chittaro and Cristián Sánchez},
+            title  = {{Selection in Crisis Lending: Evidence from Chile's Government-Guaranteed Loans}},
+            year   = {2025},
+            note   = {Working paper}
+          }
+      - title: "Risk-Shifting Incentives Under Government Credit Guarantees"
+        url: "/research/files/Risk_shifting_paper.pdf"
+        coauthors: "Ramiro de Elejalde"
+        abstract: |-
+          This paper studies the risk-shifting behavior of banks under the FOGAPE COVID credit guarantee program in Chile, a large-scale program implemented during the pandemic. Exploiting the program's design, which features varying guarantee rates based on firm size, and using detailed tax and credit data, we investigate whether banks reclassify firms to obtain higher guarantee rates.
+
+          Our findings indicate significant reclassification of firms into the small-size category, which benefits from higher guarantee rates. This reclassification is more likely among firms with an existing credit history with the bank.
+
+          We develop a structural model to understand how these incentives vary by firm characteristics and to improve the program's design. Our results have important policy implications, suggesting that credit guarantee programs should carefully balance improving credit access with the potential for bank's moral hazard.
+        bibtex: |-
+          @unpublished{deelejalde2025risk,
+            author = {Ramiro de Elejalde and Cristián Sánchez},
+            title  = {{Risk-Shifting Incentives Under Government Credit Guarantees}},
+            year   = {2025},
+            note   = {Working paper}
+          }
       - title: "Heterogeneous Bank Exit and Relationship Reallocation"
         coauthors: "Adriano Fernandes and Audrey Tiew"
       - title: "Equilibrium Effects of College-Loan Regulation: College Expansion, Labor Market Mismatch, and Repayment"
         coauthors: "Felipe Brugués, Roberto Gillmore and Sebastián Otero"
       - title: "Market Structure and Competition in the Card Payments Market in Chile"
         coauthors: "Jorge Alé-Chilet, Pedro Roje and André Stenzel"
-      - title: "Increasing Capacity at Elite High Schools Under Centralized Assignment"
-        coauthors: "Arturo Aguilar, Adrián Martínez and Jorge Pérez"
-      - title: "High Pay for High Performers in the Teaching Profession"
-        coauthors: "Ricardo Estrada, Jorge Méndez and Mauricio Romero"
-      - title: "Inputs and the School Quality Effects of Targeted Vouchers"
-        coauthors: "Gabriel Cañedo Riedel"
-      - title: "Are For-Profit Schools Worth Trying? Evidence Across Multiple Treatment Margins"
-        coauthors: "René Nieto"

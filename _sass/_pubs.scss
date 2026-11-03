@@ -122,8 +122,5 @@ a.pub-title:hover {
     code { font-family: inherit; }
 }
 
-// Work in progress (no links)
-.wip {
-    margin-bottom: 20px;
-    .pub-title { color: var(--text); }
-}
+// Titles with no draft to link to are plain text, not link-colored
+span.pub-title { color: var(--text); }
