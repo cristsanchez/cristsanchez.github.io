@@ -118,10 +118,10 @@ groups:
           }
       - title: "Increasing Capacity at Elite High Schools Under Centralized Assignment"
         coauthors: "Arturo Aguilar, Adrián Martínez and Jorge Pérez"
-      - title: "Inputs and the School Quality Effects of Targeted Vouchers"
-        coauthors: "Gabriel Cañedo Riedel"
-      - title: "Are For-Profit Schools Worth Trying? Evidence Across Multiple Treatment Margins"
-        coauthors: "René Nieto"
+      # - title: "Inputs and the School Quality Effects of Targeted Vouchers"
+      #   coauthors: "Gabriel Cañedo Riedel"
+      # - title: "Are For-Profit Schools Worth Trying? Evidence Across Multiple Treatment Margins"
+      #   coauthors: "René Nieto"
   - label: "Labor Markets"
     items:
       - title: "The Gender Pay Gap in a Highly Regulated Market"
