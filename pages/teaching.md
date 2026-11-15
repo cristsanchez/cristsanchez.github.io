@@ -5,6 +5,12 @@ title: Teaching
 subtitle: Courses taught and guest lectures.
 ---
 <div class="group">
+    <div class="group-label">Universidad de los Andes</div>
+    <div class="course"><span class="name">Microeconomics I</span><span class="level">Undergraduate</span></div>
+    <div class="course"><span class="name">Industrial Organization</span><span class="level">Undergraduate</span></div>
+</div>
+
+<div class="group">
     <div class="group-label">Instituto Tecnológico Autónomo de México (ITAM)</div>
     <div class="course"><span class="name">Advanced Microeconometrics</span><span class="level">Master in Economic Theory</span></div>
     <div class="course"><span class="name">Empirical Industrial Organization</span><span class="level">Master in Economic Theory</span></div>
