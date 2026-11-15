@@ -66,58 +66,58 @@ groups:
             year   = {2026},
             note   = {Working paper}
           }
-      - title: "When Schools Are Full: Capacity Constraints and the Absorption of a Migration Shock"
+      - title: "How Do Schools Absorb an Unexpected Demand Shift? Evidence from a Migration Shock"
         url: "/research/files/WhenSchoolsAreFull.pdf"
         coauthors: "Faqiang Li, Diana Martínez Heredia and María Adelaida Martínez Cabrera"
         abstract: |-
-          Between 2017 and 2019 Peru's primary schools absorbed 46,000 Venezuelan children, four fifths of them in ten cities, into a public system whose capacity is fixed a year ahead by teaching posts allocated at thirty pupils per section. We use the universe of enrollment records and school censuses to ask how a school system with no slack absorbs an unanticipated demand shock and how the families already in it respond. Public schools near the inflow grew, and they made room almost entirely by enlarging sections: nine tenths of the additional pupils sat in existing sections, the share of sections above the norm rose by seven percentage points in the most exposed cities, and teaching posts remained unchanged within the three years. Private schools did not respond on any margin, neither fees, nor posts, nor sections, and lost a few pupils. Families in exposed grades moved to other schools, toward schools with fewer migrants, and a full school did not slow them down. Capacity mattered on a different margin. Full public schools that received migrants held back fewer pupils and increased dropouts. We write down a model of school choice with a public sector that allocates posts by rule and rations seats, and a private sector with fixed capacity, whose primitives are the resourcing rate and the rationing rule we estimate, and we set out the counterfactuals it will answer: full compliance with the staffing norm, resources that follow pupils, vouchers into a private sector at capacity, and the placement of migrant children across schools with room.
+          We study how the public primary schools of Lima and Callao, Peru, allocated their seats to the children of the Venezuelan migration, using the universe of enrollment records from 2014 to 2019. Per pupil enrolled in 2016, public schools that were full in 2016 took about a third as many Venezuelan pupils as schools with room, a standing allocation by fullness that predates the inflow. Full schools took native first-grade entrants at nearly the rate of schools with room, other newcomers at lower rates the newer they were to the city's schools, and Venezuelan newcomers at the lowest rate, whether their school registered them early or late in the year. Venezuelan newcomers filled public seats that native pupils changing schools, most of them from private schools, would otherwise have taken. Specifically, native arrivals to the public schools of a neighborhood fell by 0.31 pupils for every Venezuelan newcomer they enrolled. The families already enrolled moved little in response to the inflow, and neither did the fees of private schools, which had empty seats. We develop a model of school choice in which late arrivals, every child who needs a seat other than first-grade entrants from a preschool in the city, choose after those entrants among the schools that admit them. In the model, paying the private fees of late arrivals would have cost more a year per added private placement than a public teaching post for a section of 30 pupils, since almost as many late arrivals would have enrolled in private schools without the payment.
         bibtex: |-
           @unpublished{li2026schools,
             author = {Faqiang Li and Diana Martínez Heredia and María Adelaida Martínez Cabrera and Cristián Sánchez},
-            title  = {{When Schools Are Full: Capacity Constraints and the Absorption of a Migration Shock}},
+            title  = {{How Do Schools Absorb an Unexpected Demand Shift? Evidence from a Migration Shock}},
             year   = {2026},
             note   = {Working paper}
           }
-      - title: "Price and Market Segmentation Consequences of Targeted Vouchers"
-        url: "/research/files/PricesAndSegmentation.pdf"
-        coauthors: "Gabriel Cañedo Riedel and Emiliano Ramírez"
-        abstract: |-
-          We study how a large targeted voucher reform reshapes tuition-setting incentives and market segmentation in competitive education markets. We focus on Chile's targeted voucher program, introduced in 2008, which increased per-student funding for disadvantaged pupils while prohibiting participating schools from charging top-up fees to eligible students; participation was voluntary. Using administrative data covering the universe of schools and students over 2004–2015, we exploit cross-municipality variation in pre-reform eligibility shares in an event-study design to estimate equilibrium effects on school fees. Throughout, we distinguish between the posted (sticker) top-up fees that schools set and the out-of-pocket fees that particular households face, which under the reform are zero for eligible students at participating schools. We find that the reform segments the price schedule. Posted fees—the fees non-eligible households pay—fall on average in more exposed markets, consistent with participating schools cutting top-up fees for higher-income families. In contrast, the average posted fee attached to the schooling options of eligible students rises in more exposed markets: although eligible students pay nothing at participating schools, schools that opt out of the program raise their fees, moving upmarket. We interpret these patterns through models of school competition with peer effects and sorting, and we provide supporting evidence from a pre-reform school choice model with peer composition that families exhibit economically meaningful willingness to pay to avoid low-income peers.
-        bibtex: |-
-          @unpublished{canedoriedel2026prices,
-            author = {Gabriel Cañedo Riedel and Emiliano Ramírez and Cristián Sánchez},
-            title  = {{Price and Market Segmentation Consequences of Targeted Vouchers}},
-            year   = {2026},
-            note   = {Working paper}
-          }
-      - title: "Supply-Side Responses to Targeted Vouchers"
-        url: "/research/files/supply_side.pdf"
-        coauthors: "Gabriel Cañedo Riedel"
-        coverage:
-          label: "Development Impact"
-          href: "https://blogs.worldbank.org/impactevaluations/whats-latest-research-development-economics-roundup-neudc-2021?CID=WBW_AL_BlogNotification_EN_EXT"
-        abstract: |-
-          We examine schools' responses to a recent targeted voucher reform in Chile. Private schools' responses to the reform are quicker and larger than public schools' responses; however, schools in both sectors react to the policy along various margins. Private schools enter and exit the market more often. Public and private schools improve educational inputs related to school infrastructure and the teaching staff. Interestingly, private schools' fee responses are such that low income students see an increase in the average fee they face in the market, and higher income students see a decrease in the average fee they face.
-        bibtex: |-
-          @unpublished{canedoriedel2021supply,
-            author = {Gabriel Cañedo-Riedel and Cristián Sánchez},
-            title  = {{Supply-Side Responses to Targeted Vouchers}},
-            year   = {2021},
-            note   = {Working paper}
-          }
-      - title: "The Design of Vouchers and Schools' Strategic Behavior: The Case of Chile"
-        url: "/research/files/skip_exam_draft.pdf"
-        abstract: |-
-          I use rich administrative data from Chile and a difference-in-differences strategy to show that the positive effects on test scores of a recent targeted voucher reform found in the literature need to be taken with caution, as I find that the reform significantly decreased the likelihood that low-performing students take the national standardized tests. Specifically, low-performing students are 14.7 percentage points less likely to take the national exams four years after the introduction of the reform, while high-performing students are as likely to take the exams after the introduction of the reform as they were before. Such result cannot be explained by the observed increase in class attendance attributed to the program, but rather suggests a strategic response from schools to the requirement of constantly increasing performance in order to secure the receipt of the new subsidy. The ultimate consequence of this strategic behavior is that the resulting observed distribution of standardized test scores, an instrument that is used by the government to guide many of its policies, and by families to guide their enrollment decisions, may no longer be an accurate representation of the actual distribution, leading to inefficiencies in the allocation of resources.
-        bibtex: |-
-          @unpublished{sanchez2019design,
-            author = {Cristián Sánchez},
-            title  = {{The Design of Vouchers and Schools' Strategic Behavior: The Case of Chile}},
-            year   = {2019},
-            note   = {Working paper}
-          }
-      - title: "Increasing Capacity at Elite High Schools Under Centralized Assignment"
-        coauthors: "Arturo Aguilar, Adrián Martínez and Jorge Pérez"
+      # - title: "Price and Market Segmentation Consequences of Targeted Vouchers"
+      #   url: "/research/files/PricesAndSegmentation.pdf"
+      #   coauthors: "Gabriel Cañedo Riedel and Emiliano Ramírez"
+      #   abstract: |-
+      #     We study how a large targeted voucher reform reshapes tuition-setting incentives and market segmentation in competitive education markets. We focus on Chile's targeted voucher program, introduced in 2008, which increased per-student funding for disadvantaged pupils while prohibiting participating schools from charging top-up fees to eligible students; participation was voluntary. Using administrative data covering the universe of schools and students over 2004–2015, we exploit cross-municipality variation in pre-reform eligibility shares in an event-study design to estimate equilibrium effects on school fees. Throughout, we distinguish between the posted (sticker) top-up fees that schools set and the out-of-pocket fees that particular households face, which under the reform are zero for eligible students at participating schools. We find that the reform segments the price schedule. Posted fees—the fees non-eligible households pay—fall on average in more exposed markets, consistent with participating schools cutting top-up fees for higher-income families. In contrast, the average posted fee attached to the schooling options of eligible students rises in more exposed markets: although eligible students pay nothing at participating schools, schools that opt out of the program raise their fees, moving upmarket. We interpret these patterns through models of school competition with peer effects and sorting, and we provide supporting evidence from a pre-reform school choice model with peer composition that families exhibit economically meaningful willingness to pay to avoid low-income peers.
+      #   bibtex: |-
+      #     @unpublished{canedoriedel2026prices,
+      #       author = {Gabriel Cañedo Riedel and Emiliano Ramírez and Cristián Sánchez},
+      #       title  = {{Price and Market Segmentation Consequences of Targeted Vouchers}},
+      #       year   = {2026},
+      #       note   = {Working paper}
+      #     }
+      # - title: "Supply-Side Responses to Targeted Vouchers"
+      #   url: "/research/files/supply_side.pdf"
+      #   coauthors: "Gabriel Cañedo Riedel"
+      #   coverage:
+      #     label: "Development Impact"
+      #     href: "https://blogs.worldbank.org/impactevaluations/whats-latest-research-development-economics-roundup-neudc-2021?CID=WBW_AL_BlogNotification_EN_EXT"
+      #   abstract: |-
+      #     We examine schools' responses to a recent targeted voucher reform in Chile. Private schools' responses to the reform are quicker and larger than public schools' responses; however, schools in both sectors react to the policy along various margins. Private schools enter and exit the market more often. Public and private schools improve educational inputs related to school infrastructure and the teaching staff. Interestingly, private schools' fee responses are such that low income students see an increase in the average fee they face in the market, and higher income students see a decrease in the average fee they face.
+      #   bibtex: |-
+      #     @unpublished{canedoriedel2021supply,
+      #       author = {Gabriel Cañedo-Riedel and Cristián Sánchez},
+      #       title  = {{Supply-Side Responses to Targeted Vouchers}},
+      #       year   = {2021},
+      #       note   = {Working paper}
+      #     }
+      # - title: "The Design of Vouchers and Schools' Strategic Behavior: The Case of Chile"
+      #   url: "/research/files/skip_exam_draft.pdf"
+      #   abstract: |-
+      #     I use rich administrative data from Chile and a difference-in-differences strategy to show that the positive effects on test scores of a recent targeted voucher reform found in the literature need to be taken with caution, as I find that the reform significantly decreased the likelihood that low-performing students take the national standardized tests. Specifically, low-performing students are 14.7 percentage points less likely to take the national exams four years after the introduction of the reform, while high-performing students are as likely to take the exams after the introduction of the reform as they were before. Such result cannot be explained by the observed increase in class attendance attributed to the program, but rather suggests a strategic response from schools to the requirement of constantly increasing performance in order to secure the receipt of the new subsidy. The ultimate consequence of this strategic behavior is that the resulting observed distribution of standardized test scores, an instrument that is used by the government to guide many of its policies, and by families to guide their enrollment decisions, may no longer be an accurate representation of the actual distribution, leading to inefficiencies in the allocation of resources.
+      #   bibtex: |-
+      #     @unpublished{sanchez2019design,
+      #       author = {Cristián Sánchez},
+      #       title  = {{The Design of Vouchers and Schools' Strategic Behavior: The Case of Chile}},
+      #       year   = {2019},
+      #       note   = {Working paper}
+      #     }
+      # - title: "Increasing Capacity at Elite High Schools Under Centralized Assignment"
+      #   coauthors: "Arturo Aguilar, Adrián Martínez and Jorge Pérez"
       # - title: "Inputs and the School Quality Effects of Targeted Vouchers"
       #   coauthors: "Gabriel Cañedo Riedel"
       # - title: "Are For-Profit Schools Worth Trying? Evidence Across Multiple Treatment Margins"
@@ -170,19 +170,19 @@ groups:
             year   = {2026},
             note   = {Working paper}
           }
-      - title: "The Effects of Credit on Firms' Performance: A Survey"
-        url: "/research/files/dEPS.pdf"
-        coauthors: "Ramiro de Elejalde and Brian Pustilnik"
-        status: "Reject & Resubmit · Latin American Journal of Central Banking"
-        abstract: |-
-          This paper surveys recent empirical literature examining the impact of credit supply shocks on firm performance. A critical methodological challenge is distinguishing between supply-driven and demand-driven changes in credit. We review studies employing matched bank-firm data and exploiting idiosyncratic bank-level variation to isolate supply shocks. The survey first explores how banks react to adverse shocks, often contracting credit. We then analyze how firms respond, highlighting the role of alternative financing sources. The core analysis focuses on the consequences of credit supply contractions for firm investment, employment, exports, and prices. The evidence indicates that investment is the most sensitive variable, with significant negative effects. Employment impacts are also generally negative, but often smaller and less consistent. We discuss indirect effects via the value chain and emphasize heterogeneous firm responses, particularly based on size and pre-existing credit constraints. Bank characteristics, such as capitalization, liquidity, and risk exposure, significantly influence their lending behavior during periods of stress. This survey synthesizes recent findings, including those from emerging economies, and identifies areas where further research is needed. The findings have important implications for policies aimed at strengthening the banking system and mitigating the adverse effects of credit supply shocks on firm performance.
-        bibtex: |-
-          @unpublished{deelejalde2025credit,
-            author = {Ramiro de Elejalde and Brian Pustilnik and Cristián Sánchez},
-            title  = {{The Effects of Credit on Firms' Performance: A Survey}},
-            year   = {2025},
-            note   = {Working paper}
-          }
+      # - title: "The Effects of Credit on Firms' Performance: A Survey"
+      #   url: "/research/files/dEPS.pdf"
+      #   coauthors: "Ramiro de Elejalde and Brian Pustilnik"
+      #   status: "Reject & Resubmit · Latin American Journal of Central Banking"
+      #   abstract: |-
+      #     This paper surveys recent empirical literature examining the impact of credit supply shocks on firm performance. A critical methodological challenge is distinguishing between supply-driven and demand-driven changes in credit. We review studies employing matched bank-firm data and exploiting idiosyncratic bank-level variation to isolate supply shocks. The survey first explores how banks react to adverse shocks, often contracting credit. We then analyze how firms respond, highlighting the role of alternative financing sources. The core analysis focuses on the consequences of credit supply contractions for firm investment, employment, exports, and prices. The evidence indicates that investment is the most sensitive variable, with significant negative effects. Employment impacts are also generally negative, but often smaller and less consistent. We discuss indirect effects via the value chain and emphasize heterogeneous firm responses, particularly based on size and pre-existing credit constraints. Bank characteristics, such as capitalization, liquidity, and risk exposure, significantly influence their lending behavior during periods of stress. This survey synthesizes recent findings, including those from emerging economies, and identifies areas where further research is needed. The findings have important implications for policies aimed at strengthening the banking system and mitigating the adverse effects of credit supply shocks on firm performance.
+      #   bibtex: |-
+      #     @unpublished{deelejalde2025credit,
+      #       author = {Ramiro de Elejalde and Brian Pustilnik and Cristián Sánchez},
+      #       title  = {{The Effects of Credit on Firms' Performance: A Survey}},
+      #       year   = {2025},
+      #       note   = {Working paper}
+      #     }
       - title: "Selection in Crisis Lending: Evidence from Chile's Government-Guaranteed Loans"
         url: "/research/files/Chittaro-JMP.pdf"
         coauthors: "Lautaro Chittaro"
