@@ -66,18 +66,18 @@ groups:
             year   = {2026},
             note   = {Working paper}
           }
-      - title: "How Do Schools Absorb an Unexpected Demand Shift? Evidence from a Migration Shock"
-        url: "/research/files/WhenSchoolsAreFull.pdf"
-        coauthors: "Faqiang Li, Diana Martínez Heredia and María Adelaida Martínez Cabrera"
-        abstract: |-
-          We study how the public primary schools of Lima and Callao, Peru, allocated their seats to the children of the Venezuelan migration, using the universe of enrollment records from 2014 to 2019. Per pupil enrolled in 2016, public schools that were full in 2016 took about a third as many Venezuelan pupils as schools with room, a standing allocation by fullness that predates the inflow. Full schools took native first-grade entrants at nearly the rate of schools with room, other newcomers at lower rates the newer they were to the city's schools, and Venezuelan newcomers at the lowest rate, whether their school registered them early or late in the year. Venezuelan newcomers filled public seats that native pupils changing schools, most of them from private schools, would otherwise have taken. Specifically, native arrivals to the public schools of a neighborhood fell by 0.31 pupils for every Venezuelan newcomer they enrolled. The families already enrolled moved little in response to the inflow, and neither did the fees of private schools, which had empty seats. We develop a model of school choice in which late arrivals, every child who needs a seat other than first-grade entrants from a preschool in the city, choose after those entrants among the schools that admit them. In the model, paying the private fees of late arrivals would have cost more a year per added private placement than a public teaching post for a section of 30 pupils, since almost as many late arrivals would have enrolled in private schools without the payment.
-        bibtex: |-
-          @unpublished{li2026schools,
-            author = {Faqiang Li and Diana Martínez Heredia and María Adelaida Martínez Cabrera and Cristián Sánchez},
-            title  = {{How Do Schools Absorb an Unexpected Demand Shift? Evidence from a Migration Shock}},
-            year   = {2026},
-            note   = {Working paper}
-          }
+      # - title: "How Do Schools Absorb an Unexpected Demand Shift? Evidence from a Migration Shock"
+      #   url: "/research/files/WhenSchoolsAreFull.pdf"
+      #   coauthors: "Faqiang Li, Diana Martínez Heredia and María Adelaida Martínez Cabrera"
+      #   abstract: |-
+      #     We study how the public primary schools of Lima and Callao, Peru, allocated their seats to the children of the Venezuelan migration, using the universe of enrollment records from 2014 to 2019. Per pupil enrolled in 2016, public schools that were full in 2016 took about a third as many Venezuelan pupils as schools with room, a standing allocation by fullness that predates the inflow. Full schools took native first-grade entrants at nearly the rate of schools with room, other newcomers at lower rates the newer they were to the city's schools, and Venezuelan newcomers at the lowest rate, whether their school registered them early or late in the year. Venezuelan newcomers filled public seats that native pupils changing schools, most of them from private schools, would otherwise have taken. Specifically, native arrivals to the public schools of a neighborhood fell by 0.31 pupils for every Venezuelan newcomer they enrolled. The families already enrolled moved little in response to the inflow, and neither did the fees of private schools, which had empty seats. We develop a model of school choice in which late arrivals, every child who needs a seat other than first-grade entrants from a preschool in the city, choose after those entrants among the schools that admit them. In the model, paying the private fees of late arrivals would have cost more a year per added private placement than a public teaching post for a section of 30 pupils, since almost as many late arrivals would have enrolled in private schools without the payment.
+      #   bibtex: |-
+      #     @unpublished{li2026schools,
+      #       author = {Faqiang Li and Diana Martínez Heredia and María Adelaida Martínez Cabrera and Cristián Sánchez},
+      #       title  = {{How Do Schools Absorb an Unexpected Demand Shift? Evidence from a Migration Shock}},
+      #       year   = {2026},
+      #       note   = {Working paper}
+      #     }
       # - title: "Price and Market Segmentation Consequences of Targeted Vouchers"
       #   url: "/research/files/PricesAndSegmentation.pdf"
       #   coauthors: "Gabriel Cañedo Riedel and Emiliano Ramírez"
@@ -196,22 +196,22 @@ groups:
             year   = {2025},
             note   = {Working paper}
           }
-      - title: "Risk-Shifting Incentives Under Government Credit Guarantees"
-        url: "/research/files/Risk_shifting_paper.pdf"
-        coauthors: "Ramiro de Elejalde"
-        abstract: |-
-          This paper studies the risk-shifting behavior of banks under the FOGAPE COVID credit guarantee program in Chile, a large-scale program implemented during the pandemic. Exploiting the program's design, which features varying guarantee rates based on firm size, and using detailed tax and credit data, we investigate whether banks reclassify firms to obtain higher guarantee rates.
-
-          Our findings indicate significant reclassification of firms into the small-size category, which benefits from higher guarantee rates. This reclassification is more likely among firms with an existing credit history with the bank.
-
-          We develop a structural model to understand how these incentives vary by firm characteristics and to improve the program's design. Our results have important policy implications, suggesting that credit guarantee programs should carefully balance improving credit access with the potential for bank's moral hazard.
-        bibtex: |-
-          @unpublished{deelejalde2025risk,
-            author = {Ramiro de Elejalde and Cristián Sánchez},
-            title  = {{Risk-Shifting Incentives Under Government Credit Guarantees}},
-            year   = {2025},
-            note   = {Working paper}
-          }
+      # - title: "Risk-Shifting Incentives Under Government Credit Guarantees"
+      #   url: "/research/files/Risk_shifting_paper.pdf"
+      #   coauthors: "Ramiro de Elejalde"
+      #   abstract: |-
+      #     This paper studies the risk-shifting behavior of banks under the FOGAPE COVID credit guarantee program in Chile, a large-scale program implemented during the pandemic. Exploiting the program's design, which features varying guarantee rates based on firm size, and using detailed tax and credit data, we investigate whether banks reclassify firms to obtain higher guarantee rates.
+      #
+      #     Our findings indicate significant reclassification of firms into the small-size category, which benefits from higher guarantee rates. This reclassification is more likely among firms with an existing credit history with the bank.
+      #
+      #     We develop a structural model to understand how these incentives vary by firm characteristics and to improve the program's design. Our results have important policy implications, suggesting that credit guarantee programs should carefully balance improving credit access with the potential for bank's moral hazard.
+      #   bibtex: |-
+      #     @unpublished{deelejalde2025risk,
+      #       author = {Ramiro de Elejalde and Cristián Sánchez},
+      #       title  = {{Risk-Shifting Incentives Under Government Credit Guarantees}},
+      #       year   = {2025},
+      #       note   = {Working paper}
+      #     }
       - title: "Heterogeneous Bank Exit and Relationship Reallocation"
         coauthors: "Adriano Fernandes and Audrey Tiew"
       - title: "Equilibrium Effects of College-Loan Regulation: College Expansion, Labor Market Mismatch, and Repayment"
