@@ -190,10 +190,10 @@ groups:
         abstract: |-
           We study the long-run effectiveness of government-guaranteed loan programs implemented during recent crises. Using administrative and loan application data from the Central Bank of Chile, we track firm defaults five years after the COVID-19 shock. Our instrumental-variable estimates show that these loans postponed defaults for two years but did not reduce total defaults in the long run. Banks used private information to direct credit toward firms that would have been safer even without the program. To assess the welfare implications of the delayed defaults and banks' selection of safer firms, we build a dynamic model of heterogeneous entrepreneurs disciplined by our causal estimates. The program generated welfare gains 21% above its fiscal cost, with limited rents for banks and modest increases in aggregate risk-taking. Younger firms are the most cost-effective group to support, yet they are the least likely to be approved because their growth relies on leverage, increasing default risk. A budget-neutral redesign that raises guarantees for younger firms and reduces them for the rest could increase welfare by 6pp.
         bibtex: |-
-          @unpublished{chittaro2025selection,
+          @unpublished{chittaro2026selection,
             author = {Lautaro Chittaro and Cristián Sánchez},
             title  = {{Selection in Crisis Lending: Evidence from Chile's Government-Guaranteed Loans}},
-            year   = {2025},
+            year   = {2026},
             note   = {Working paper}
           }
       # - title: "Risk-Shifting Incentives Under Government Credit Guarantees"
